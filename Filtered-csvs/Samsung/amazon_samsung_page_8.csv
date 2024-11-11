@@ -1,0 +1,11 @@
+Product Name,Rating (Stars),Number of Reviews,Bought Last Month,Current MRP,Dashed MRP,Discount (%),Free Delivery,Brand,Product,Color,RAM,Storage,New Bought Last Month,New Dashed MRP,New Discount (%)
+"Samsung Galaxy Z Fold6 5G AI Smartphone (Silver Shadow, 12GB RAM, 256GB Storage)",4.3,73,0,152499.0,₹164999,(8% off),Yes,Samsung,Samsung Galaxy Z Fold6 5G AI Smartphone ,Silver,12GB,256GB,0,164999,8.0
+"Samsung Galaxy A06 (Gold, 4GB RAM, 128GB Storage)| 50 MP Main Camera| Upto 8GB RAM with RAM Plus| MediaTek Helio G85| 5000 mAh Battery Knox Vault: Security & Privacy| Fingerprint Sensor",1.8,7,0,11498.0,₹12499,(8% off),Yes,Samsung,Samsung Galaxy A06 ,Gold,4GB,128GB,0,12499,8.0
+"samsung Galaxy A55 5G (Awesome Iceblue, 12GB RAM, 256GB Storage) Without Offer",4.0,327,0,39999.0,₹44999,(11% off),Yes,Samsung,,Black,12GB,256GB,0,44999,11.0
+"Samsung Galaxy M30 (Gradation Blue, 4GB RAM, Super AMOLED Display, 64GB Storage, 5000mAH Battery)",4.2,"110,405",,16490.0,,,Yes,Samsung,Samsung Galaxy M30 ,Blue,4GB,64GB,0,"2     152499.0
+6      11498.0
+8      39999.0
+12     16490.0
+20     16499.0
+Name: Current MRP, dtype: float64",0.0
+"Samsung Galaxy M15 5G Prime Edition (Stone Grey,8GB RAM,128GB Storage)| Super AMOLED Display| 50MP Triple Cam| 6000mAh Battery| MediaTek Dimensity 6100+| 4 Gen. OS Upgrade & 5 Year Security Update",3.9,573,1K+ bought in past month,16499.0,₹17999,(8% off),Yes,Samsung,Samsung Galaxy M15 5G Prime Edition ,Black,8GB,128GB,1000,17999,8.0
