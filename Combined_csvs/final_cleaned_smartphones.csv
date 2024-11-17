@@ -1,0 +1,498 @@
+product_name,rating_stars,number_of_reviews,bought_last_month,discounted_mrp,original_mrp,discount%,free_delivery,brand,product,color,storage_in_GB,RAM_in_GB
+Apple iPhone 15 () -,4.5,217,200,65900.0,79900.0,18.0,0,Apple,iPhone 15,Green,128,6
+Apple iPhone 15 () - Pink,4.4,213,100,65900.0,79600.0,17.0,0,Apple,iPhone 15,Pink,128,6
+Apple iPhone 13 () - Starlight,4.5,7819,5000,45490.0,59900.0,24.0,0,Apple,iPhone 13,Starlight,128,6
+Apple iPhone 13 () - Midnight,4.5,6614,5000,45490.0,59600.0,24.0,0,Apple,iPhone 13,Midnight,128,6
+Apple iPhone 13 () - Pink,4.5,3136,5000,45490.0,59900.0,24.0,0,Apple,iPhone 13,Pink,128,6
+Apple iPhone 16 () -,4.5,79,500,78400.0,79900.0,2.0,0,Apple,iPhone 16,Black,128,8
+Apple iPhone 15 () -,4.5,637,500,65900.0,79600.0,17.0,0,Apple,iPhone 15,Blue,128,6
+Apple iPhone 16 () - Ultramarine,4.5,79,500,77900.0,79900.0,3.0,0,Apple,iPhone 16,Ultramarine,128,8
+Apple iPhone 15 Plus () -,4.6,236,400,69900.0,89600.0,22.0,0,Apple,iPhone 15 Plus,Blue,128,6
+Apple iPhone 14 () -,4.5,1640,200,54900.0,69600.0,21.0,0,Apple,iPhone 14,Blue,128,6
+Apple iPhone 13 () -,4.5,6323,5000,45490.0,59600.0,24.0,0,Apple,iPhone 13,Blue,128,6
+Apple iPhone 15 () -,4.6,691,400,65900.0,79600.0,17.0,0,Apple,iPhone 15,Black,128,6
+Apple iPhone 13 () - (Product),4.5,2063,500,45490.0,69900.0,35.0,0,Apple,iPhone 13,Black,128,6
+Apple iPhone 13 () -,4.5,2242,4000,45490.0,59900.0,24.0,0,Apple,iPhone 13,Green,128,6
+Apple iPhone 16 Pro () -,3.8,44,100,129900.0,129900.0,0.0,0,Apple,iPhone 16 Pro,White Titanium,256,8
+Apple iPhone 16 Pro Max () - Natural,5.0,7,200,144900.0,144990.0,0.0,0,Apple,iPhone 16 Pro Max,Natural Titanium,256,8
+Apple iPhone 15 Plus () -,4.6,265,200,69900.0,89600.0,22.0,0,Apple,iPhone 15 Plus,Black,128,6
+Apple iPhone 16 Pro () - Natural,3.8,44,200,119900.0,119900.0,0.0,0,Apple,iPhone 16 Pro,Natural Titanium,128,8
+Apple iPhone 16 Pro () - Natural,3.8,44,200,119900.0,119900.0,0.0,0,Apple,iPhone 16 Pro,Natural Titanium,128,8
+Apple iPhone 16 () - Pink,4.5,79,100,77900.0,79900.0,3.0,0,Apple,iPhone 16,Pink,128,8
+Apple iPhone 16 () - Teal,4.5,79,300,78400.0,79900.0,2.0,0,Apple,iPhone 16,Teal,128,8
+Apple iPhone 16 Pro Max () -,3.5,4,50,144900.0,144900.0,0.0,0,Apple,iPhone 16 Pro Max,White Titanium,256,8
+Apple iPhone 15 Pro Max () -,4.3,76,50,128900.0,159900.0,19.0,0,Apple,iPhone 15 Pro Max,Black Titanium,256,6
+Apple iPhone 16 Pro Max () -,5.0,3,0,164900.0,164900.0,0.0,0,Apple,iPhone 16 Pro Max,Black Titanium,512,8
+Apple iPhone 16 Plus () -,4.1,53,100,86900.0,89900.0,3.0,0,Apple,iPhone 16 Plus,Black,128,8
+Apple iPhone 15 () -,4.5,217,100,65900.0,79900.0,18.0,0,Apple,iPhone 15,Green,128,6
+Apple iPhone 16 Plus () -,4.1,53,50,97900.0,99900.0,2.0,0,Apple,iPhone 16 Plus,Black,256,8
+Apple iPhone 13 () - Pink,4.5,403,500,54999.0,69900.0,21.0,0,Apple,iPhone 13,Pink,256,6
+Apple iPhone 14 () - Purple,4.5,848,100,54900.0,69600.0,21.0,0,Apple,iPhone 14,Purple,128,6
+Apple iPhone 15 Plus () - Pink,4.6,97,100,69900.0,89600.0,22.0,0,Apple,iPhone 15 Plus,Pink,128,6
+Apple iPhone 15 () - Yellow,5.0,1,0,94900.0,109900.0,14.0,0,Apple,iPhone 15,Yellow,512,6
+Apple iPhone 15 () -,4.4,176,200,75900.0,89600.0,15.0,0,Apple,iPhone 15,Blue,256,6
+Apple iPhone 15 Pro Max () - Natural,4.6,88,0,128900.0,154000.0,16.0,0,Apple,iPhone 15 Pro Max,Natural Titanium,256,6
+Apple iPhone 13 () - Midnight,4.5,556,1000,54999.0,69600.0,21.0,0,Apple,iPhone 13,Midnight,256,6
+Apple iPhone 15 () - Yellow,4.8,18,0,75900.0,89900.0,16.0,0,Apple,iPhone 15,Yellow,256,6
+Apple iPhone 16 () -,4.5,79,100,89900.0,89900.0,0.0,0,Apple,iPhone 16,Black,256,8
+Apple iPhone 15 () -,4.4,176,200,75900.0,89600.0,15.0,0,Apple,iPhone 15,Blue,256,6
+Apple iPhone 16 () - Ultramarine,4.5,79,100,89900.0,89900.0,0.0,0,Apple,iPhone 16,Ultramarine,256,8
+Apple iPhone 15 Plus () - Pink,4.6,97,100,69900.0,89600.0,22.0,0,Apple,iPhone 15 Plus,Pink,128,6
+Apple iPhone 15 () -,4.5,218,200,77490.0,89600.0,14.0,0,Apple,iPhone 15,Black,256,6
+Apple iPhone 16 () - Teal,4.5,79,50,89900.0,89900.0,0.0,0,Apple,iPhone 16,Teal,256,8
+Apple iPhone 16 Plus () - Ultramarine,4.1,53,100,86900.0,89900.0,3.0,0,Apple,iPhone 16 Plus,Ultramarine,128,8
+Apple iPhone 13 () -,4.5,318,400,54999.0,69600.0,21.0,0,Apple,iPhone 13,Green,256,6
+Apple iPhone 14 () - Midnight,4.6,1331,100,54900.0,69600.0,21.0,0,Apple,iPhone 14,Midnight,128,6
+Apple iPhone 15 () - Yellow,5.0,1,0,94900.0,109900.0,14.0,0,Apple,iPhone 15,Yellow,512,6
+Apple iPhone 15 () - Pink,4.4,213,100,65900.0,79600.0,17.0,0,Apple,iPhone 15,Pink,128,6
+Apple iPhone 16 Plus () - Teal,4.1,53,100,86900.0,89900.0,3.0,0,Apple,iPhone 16 Plus,Teal,128,8
+Apple iPhone 16 Plus () -,4.1,53,100,86900.0,89900.0,3.0,0,Apple,iPhone 16 Plus,White,128,8
+Apple iPhone 16 Pro () -,3.8,44,100,119900.0,119900.0,0.0,0,Apple,iPhone 16 Pro,White Titanium,128,8
+Apple iPhone 14 () - Midnight,4.6,1331,100,54900.0,69600.0,21.0,0,Apple,iPhone 14,Midnight,128,6
+Apple iPhone 15 Pro Max (1 TB) - Natural,3.0,10,0,159900.0,199900.0,20.0,0,Iphone,Apple iPhone 15 Pro Max (1 TB) - Natural,Red,128,6
+Apple iPhone 16 () - Pink,4.5,79,0,89900.0,89900.0,0.0,0,Apple,iPhone 16,Pink,256,8
+Apple iPhone 15 Pro Max (1 TB) -,3.6,7,0,159900.0,199900.0,20.0,0,Iphone,Apple iPhone 15 Pro Max (1 TB) -,Red,128,6
+Apple iPhone 15 () - Pink,4.4,213,100,65900.0,79600.0,17.0,0,Apple,iPhone 15,Pink,128,6
+Apple iPhone 13 () - (Product),4.5,401,50,54999.0,69900.0,21.0,0,Apple,iPhone 13,Black,256,6
+Apple iPhone 15 () - Pink,4.6,63,100,77490.0,89600.0,14.0,0,Apple,iPhone 15,Pink,256,6
+Apple iPhone 13 Pro Max (1TB) -,4.6,1561,0,157900.0,179900.0,12.0,0,Iphone,Apple iPhone 13 Pro Max (1TB) -,Red,128,6
+Apple iPhone 15 Plus () -,4.6,112,100,69900.0,79900.0,13.0,0,Apple,iPhone 15 Plus,Green,128,6
+Apple iPhone 15 Pro Max () -,4.4,116,0,134900.0,159900.0,16.0,0,Apple,iPhone 15 Pro Max,Blue Titanium,256,6
+Apple iPhone 15 Pro Max () - Natural,4.7,4,0,145900.0,179900.0,19.0,0,Apple,iPhone 15 Pro Max,Natural Titanium,512,6
+Apple iPhone 15 Plus () -,4.4,112,50,86990.0,99600.0,13.0,0,Apple,iPhone 15 Plus,Black,256,6
+Apple iPhone 14 Plus () -,4.5,463,0,69900.0,79900.0,13.0,0,Apple,iPhone 14 Plus,Blue,128,6
+Apple iPhone 16 Plus () - Pink,4.1,53,50,86900.0,89900.0,3.0,0,Apple,iPhone 16 Plus,Pink,128,8
+Apple iPhone 14 Plus () - Yellow,4.3,35,0,74900.0,99900.0,25.0,0,Apple,iPhone 14 Plus,Yellow,256,6
+Apple iPhone 14 Plus () - Starlight,4.6,256,0,64900.0,79600.0,18.0,0,Apple,iPhone 14 Plus,Starlight,128,6
+Apple iPhone 14 Plus () - Midnight,4.6,339,0,64900.0,79600.0,18.0,0,Apple,iPhone 14 Plus,Midnight,128,6
+Apple iPhone 16 Plus () - Teal,4.1,53,50,97900.0,99900.0,2.0,0,Apple,iPhone 16 Plus,Teal,256,8
+Apple iPhone 14 Pro () - Space,4.5,134,0,129900.0,129900.0,0.0,0,Apple,iPhone 14 Pro,Space Black,128,6
+Apple iPhone 14 () - Starlight,3.7,7,0,79900.0,99900.0,20.0,0,Apple,iPhone 14,Starlight,512,6
+Apple iPhone 15 () -,4.0,5,0,94900.0,109900.0,14.0,0,Apple,iPhone 15,Blue,512,6
+Apple iPhone 16 () - Teal,4.5,79,0,109900.0,109900.0,0.0,0,Apple,iPhone 16,Teal,512,8
+Apple iPhone 15 Pro Max () -,3.6,6,0,139900.0,173900.0,20.0,0,Apple,iPhone 15 Pro Max,Black Titanium,512,6
+Apple iPhone 14 () - Midnight,4.3,125,0,66900.0,89900.0,26.0,0,Apple,iPhone 14,Midnight,256,6
+Apple iPhone 16 Plus () - Ultramarine,4.1,53,50,97900.0,99900.0,2.0,0,Apple,iPhone 16 Plus,Ultramarine,256,8
+Apple iPhone 16 Pro () - Natural,3.8,44,0,149900.0,149900.0,0.0,0,Apple,iPhone 16 Pro,Natural Titanium,512,8
+Apple iPhone 15 Pro Max () -,4.2,5,0,145900.0,179900.0,19.0,0,Apple,iPhone 15 Pro Max,Blue Titanium,512,6
+Apple iPhone 15 () - Yellow,4.4,61,0,65900.0,79600.0,17.0,0,Apple,iPhone 15,Yellow,128,6
+Apple iPhone 16 Pro (1 TB) -,3.8,44,0,169900.0,169900.0,0.0,0,Iphone,Apple iPhone 16 Pro (1 TB) -,Red,128,8
+Apple iPhone 15 Pro Max () -,5.0,3,0,145900.0,179900.0,19.0,0,Apple,iPhone 15 Pro Max,White Titanium,512,6
+Apple iPhone 16 Pro () -,3.8,44,0,149900.0,149999.0,0.0,0,Apple,iPhone 16 Pro,White Titanium,512,8
+Apple iPhone 16 Pro () - Natural,3.8,44,0,149900.0,149900.0,0.0,0,Apple,iPhone 16 Pro,Natural Titanium,512,8
+Apple iPhone 16 Pro () - Desert,3.8,44,50,149900.0,149900.0,0.0,0,Apple,iPhone 16 Pro,Desert Titanium,512,8
+Apple iPhone 15 Pro Max () -,4.2,5,0,145900.0,179900.0,19.0,0,Apple,iPhone 15 Pro Max,Blue Titanium,512,6
+Apple iPhone 16 Plus () - Ultramarine,4.1,53,50,97900.0,99900.0,2.0,0,Apple,iPhone 16 Plus,Ultramarine,256,8
+Apple iPhone 15 Pro Max (1 TB) -,4.2,7,0,159900.0,199900.0,20.0,0,Iphone,Apple iPhone 15 Pro Max (1 TB) -,Red,128,6
+Apple iPhone 14 Plus () - Purple,4.3,86,0,74900.0,89900.0,17.0,0,Apple,iPhone 14 Plus,Purple,256,6
+Apple iPhone 14 () - Purple,4.4,83,0,66900.0,79600.0,16.0,0,Apple,iPhone 14,Purple,256,6
+Apple iPhone 13 () -,4.3,29,0,73999.0,89900.0,18.0,0,Apple,iPhone 13,Blue,512,6
+Apple iPhone 13 Pro Max (1TB) - Sierra,4.6,1561,0,139900.0,179900.0,22.0,0,Iphone,Apple iPhone 13 Pro Max (1TB) - Sierra,Red,128,6
+Apple iPhone 15 Plus () - Pink,4.7,24,0,86990.0,99900.0,13.0,0,Apple,iPhone 15 Plus,Pink,256,6
+Apple iPhone 15 () -,4.1,6,0,94900.0,109900.0,14.0,0,Apple,iPhone 15,Black,512,6
+Apple iPhone 14 () - Purple,4.1,5,0,79900.0,99900.0,20.0,0,Apple,iPhone 14,Purple,512,6
+Apple iPhone 16 Pro () -,3.8,44,0,149900.0,149900.0,0.0,0,Apple,iPhone 16 Pro,Black Titanium,512,8
+Apple iPhone 15 () -,4.1,6,0,94900.0,109900.0,14.0,0,Apple,iPhone 15,Black,512,6
+Apple iPhone 15 Plus () - Pink,4.7,24,0,86990.0,99900.0,13.0,0,Apple,iPhone 15 Plus,Pink,256,6
+Apple iPhone 14 Pro () - Space,4.5,134,0,129900.0,129900.0,0.0,0,Apple,iPhone 14 Pro,Space Black,128,6
+Apple iPhone 14 () - Yellow,4.5,151,0,54900.0,79900.0,31.0,0,Apple,iPhone 14,Yellow,128,6
+Apple iPhone 15 Plus () - Yellow,4.3,24,0,69900.0,89900.0,22.0,0,Apple,iPhone 15 Plus,Yellow,128,6
+Apple iPhone 13 Pro Max () - Graphite,4.6,1561,0,109000.0,129900.0,16.0,0,Apple,iPhone 13 Pro Max,Graphite,128,6
+Apple iPhone 15 Plus () -,5.0,1,0,99900.0,119900.0,17.0,0,Apple,iPhone 15 Plus,Blue,512,6
+Apple iPhone 14 Plus () - Starlight,4.5,84,0,74900.0,99900.0,25.0,0,Apple,iPhone 14 Plus,Starlight,256,6
+Apple iPhone 14 () - Yellow,4.2,26,0,66900.0,89900.0,26.0,0,Apple,iPhone 14,Yellow,256,6
+Apple iPhone 15 Pro (1 TB) -,4.2,4,0,149900.0,184900.0,19.0,0,Iphone,Apple iPhone 15 Pro (1 TB) -,Red,128,6
+Apple iPhone 15 Pro Max (1 TB) -,4.2,7,0,159900.0,199900.0,20.0,0,Iphone,Apple iPhone 15 Pro Max (1 TB) -,Red,128,6
+Apple iPhone 14 () - Yellow,4.5,151,0,54900.0,79900.0,31.0,0,Apple,iPhone 14,Yellow,128,6
+Apple iPhone 14 Plus () - Midnight,4.2,8,0,89900.0,119900.0,25.0,0,Apple,iPhone 14 Plus,Midnight,512,6
+Apple iPhone 16 Pro Max () - Natural,5.0,2,0,164900.0,164900.0,0.0,0,Apple,iPhone 16 Pro Max,Natural Titanium,512,8
+Apple iPhone 15 Pro Max (1 TB) -,4.2,7,0,159900.0,199900.0,20.0,0,Iphone,Apple iPhone 15 Pro Max (1 TB) -,Red,128,6
+Apple iPhone 14 () - Purple,4.1,5,0,79900.0,99900.0,20.0,0,Apple,iPhone 14,Purple,512,6
+Apple iPhone 15 Plus () - Yellow,4.4,14,50,86990.0,99900.0,13.0,0,Apple,iPhone 15 Plus,Yellow,256,6
+Apple iPhone 14 () - Starlight,4.6,98,0,69900.0,89900.0,22.0,0,Apple,iPhone 14,Starlight,256,6
+Apple iPhone 15 Pro (1 TB) - Natural,4.4,7,0,149900.0,184900.0,19.0,0,Iphone,Apple iPhone 15 Pro (1 TB) - Natural,Red,128,6
+Apple iPhone 15 Pro (1 TB) -,3.4,4,0,149900.0,184900.0,19.0,0,Iphone,Apple iPhone 15 Pro (1 TB) -,Red,128,6
+Apple iPhone 14 Plus () - Purple,4.7,12,0,89900.0,119900.0,25.0,0,Apple,iPhone 14 Plus,Purple,512,6
+Apple iPhone 16 () -,4.5,79,0,109900.0,109900.0,0.0,0,Apple,iPhone 16,White,512,8
+Apple iPhone 14 () - (Product),4.4,115,0,66900.0,89900.0,26.0,0,Apple,iPhone 14,Black,256,6
+(Refurbished) Apple iPhone 16 Plus () -,4.0,1,0,76415.0,86900.0,12.0,0,Iphone,(Refurbished) Apple iPhone 16 Plus () -,Red,128,8
+Apple iPhone 15 Pro Max (1 TB) -,4.2,7,0,159900.0,199900.0,20.0,0,Iphone,Apple iPhone 15 Pro Max (1 TB) -,Red,128,6
+Apple iPhone 16 Pro Max () - Natural,5.0,2,0,164900.0,164900.0,0.0,0,Apple,iPhone 16 Pro Max,Natural Titanium,512,8
+Apple iPhone 14 Plus () - Starlight,4.3,9,0,89900.0,119900.0,25.0,0,Apple,iPhone 14 Plus,Starlight,512,6
+Apple iPhone 15 Pro (1 TB) -,3.4,4,0,149900.0,184900.0,19.0,0,Iphone,Apple iPhone 15 Pro (1 TB) -,Red,128,6
+Apple iPhone 14 () - (Product),4.4,115,0,66900.0,89900.0,26.0,0,Apple,iPhone 14,Black,256,6
+Apple iPhone 14 Plus () - Purple,4.7,12,0,89900.0,119900.0,25.0,0,Apple,iPhone 14 Plus,Purple,512,6
+Apple iPhone 16 () -,4.5,79,0,109900.0,109900.0,0.0,0,Apple,iPhone 16,White,512,8
+Apple iPhone 14 () - Starlight,4.6,98,0,69900.0,89900.0,22.0,0,Apple,iPhone 14,Starlight,256,6
+Apple iPhone 14 Plus () -,3.7,14,0,89900.0,119900.0,25.0,0,Apple,iPhone 14 Plus,Blue,512,6
+Apple iPhone 14 Plus () - Midnight,4.2,8,0,89900.0,119900.0,25.0,0,Apple,iPhone 14 Plus,Midnight,512,6
+Apple iPhone 14 Plus () - Starlight,4.3,9,0,89900.0,119900.0,25.0,0,Apple,iPhone 14 Plus,Starlight,512,6
+Apple iPhone 12 Pro Max () - Pacific,4.6,446,0,109000.0,119900.0,9.0,0,Apple,iPhone 12 Pro Max,Pacific Blue,128,4
+"OnePlus Nord CE4 Lite 5G (Super , RAM, Storage)",4.1,1437,5000,17999.0,20999,14.0,1,OnePlus,OnePlus Nord CE4 Lite 5G ,Silver,128,8
+"OnePlus Nord CE 3 5G (Aqua Surge, RAM, Storage)",4.1,5268,5000,16999.0,26999,37.0,1,OnePlus,OnePlus Nord CE 3 5G ,Black,128,8
+"OnePlus Nord CE 3 Lite 5G (Chromatic Gray, RAM, Storage)",4.2,21342,4000,15657.0,19999,22.0,1,OnePlus,OnePlus Nord CE 3 Lite 5G ,Gray,128,8
+"Oneplus Nord CE4 (Dark Chrome, RAM, Storage)",4.2,1258,5000,22999.0,24999,8.0,1,Unknown,"Oneplus Nord CE4 (Dark Chrome, RAM, Storage)",Black,128,8
+"OnePlus 11R 5G (Galactic , RAM, Storage)",4.3,5555,4000,28999.0,39999,28.0,1,OnePlus,OnePlus 11R 5G ,Silver,128,8
+"OnePlus Nord 4 5G (Oasis , RAM, Storage)",4.2,408,2000,29999.0,32999,9.0,1,OnePlus,OnePlus Nord 4 5G ,Green,256,8
+"OnePlus 12R (Sunset Dune, RAM, Storage)",4.3,228,2000,38999.0,42999,9.0,1,OnePlus,OnePlus 12R ,Black,256,8
+"OnePlus Nord CE 3 Lite 5G (Pastel Lime, RAM, Storage)",4.2,22285,2000,15640.0,19999,22.0,1,OnePlus,OnePlus Nord CE 3 Lite 5G ,Black,128,8
+"OnePlus 12R (Iron Gray, RAM, Storage)",4.3,1184,2000,40999.0,45999,11.0,1,OnePlus,OnePlus 12R ,Gray,256,16
+"OnePlus Nord CE4 Lite 5G (Ultra Orange, RAM, Storage)",4.2,335,4000,17999.0,20999,14.0,1,OnePlus,OnePlus Nord CE4 Lite 5G ,Black,128,8
+"Oneplus Nord CE4 (Celadon Marble, RAM, Storage)",4.2,1693,5000,24999.0,26999,7.0,1,Unknown,"Oneplus Nord CE4 (Celadon Marble, RAM, Storage)",Black,256,8
+"OnePlus Nord 4 5G (Obsidian Midnight, RAM, Storage)",4.2,251,1000,29999.0,32999,9.0,1,OnePlus,OnePlus Nord 4 5G ,Black,256,8
+"OnePlus Nord CE4 Lite 5G (Mega , RAM, Storage)",4.1,712,5000,17999.0,20999,14.0,1,OnePlus,OnePlus Nord CE4 Lite 5G ,Blue,128,8
+"Oneplus Nord CE4 (Dark Chrome, RAM, Storage)",4.2,1301,4000,24999.0,26999,7.0,1,Unknown,"Oneplus Nord CE4 (Dark Chrome, RAM, Storage)",Black,256,8
+"OnePlus 12 (Flowy Emerald, RAM, Storage)",4.4,848,500,66999.0,69999,4.0,1,OnePlus,OnePlus 12 ,Black,512,16
+"Oneplus Nord CE4 (Celadon Marble, RAM, Storage)",4.2,1693,5000,24999.0,26999,7.0,1,Unknown,"Oneplus Nord CE4 (Celadon Marble, RAM, Storage)",Black,256,8
+"OnePlus 12R (Cool , RAM, Storage)",4.3,635,1000,40999.0,45999,11.0,1,OnePlus,OnePlus 12R ,Blue,256,16
+"OnePlus Nord CE4 Lite 5G (Mega , RAM, Storage)",4.1,712,5000,17999.0,20999,14.0,1,OnePlus,OnePlus Nord CE4 Lite 5G ,Blue,128,8
+"Oneplus Nord CE4 (Dark Chrome, RAM, Storage)",4.2,1301,4000,24999.0,26999,7.0,1,Unknown,"Oneplus Nord CE4 (Dark Chrome, RAM, Storage)",Black,256,8
+"OnePlus Nord 4 5G (Mercurial , RAM, Storage)",4.2,248,1000,29999.0,32999,9.0,1,OnePlus,OnePlus Nord 4 5G ,Silver,256,8
+"Oneplus Open (Emerald Dusk, RAM, Storage)",4.3,84,200,99999.0,139999,29.0,1,Unknown,"Oneplus Open (Emerald Dusk, RAM, Storage)",Black,512,16
+"OnePlus 12 (Silky , RAM, Storage)",4.4,591,500,66999.0,69999,4.0,1,OnePlus,OnePlus 12 ,Black,512,16
+"OnePlus 12 (Glacial , RAM, Storage)",4.5,186,100,61999.0,64999,5.0,1,OnePlus,OnePlus 12 ,White,256,12
+"OnePlus 12 (Flowy Emerald, RAM, Storage)",4.4,967,400,61999.0,"2     24999
+3     40999
+9     17999
+12    24999
+13    29999
+14    99999
+15    66999
+17    61999
+18    61999
+19    32999
+Name: Current MRP, dtype: int64",0.0,1,OnePlus,OnePlus 12 ,Black,256,12
+"OnePlus Nord 4 5G (Obsidian Midnight, RAM, Storage)",4.4,157,1000,32999.0,35999,8.0,1,OnePlus,OnePlus Nord 4 5G ,Black,256,12
+"OnePlus 12 (Silky , RAM, Storage)",4.4,591,500,66999.0,69999,4.0,0,OnePlus,OnePlus 12 ,Black,512,16
+"OnePlus Nord 4 5G (Obsidian Midnight, RAM, Storage)",4.0,129,1000,27999.0,29999,7.0,0,OnePlus,OnePlus Nord 4 5G ,Black,128,8
+"OnePlus 12 (Glacial , RAM, Storage)",4.5,186,100,61999.0,64999,5.0,0,OnePlus,OnePlus 12 ,White,256,12
+"OnePlus Nord CE4 Lite 5G (Ultra Orange, RAM, Storage)",3.7,100,1000,20999.0,23999,13.0,0,OnePlus,OnePlus Nord CE4 Lite 5G ,Black,256,8
+"OnePlus Nord CE 3 Lite 5G (Chromatic Gray, RAM, Storage)",4.2,8283,200,19998.0,21999,9.0,0,OnePlus,OnePlus Nord CE 3 Lite 5G ,Gray,256,8
+"OnePlus 12 (Flowy Emerald, RAM, Storage)",4.4,967,400,61999.0,"2     66999.0
+3     27999.0
+4     61999.0
+5     20999.0
+6     19998.0
+7     61999.0
+8     32999.0
+9     19990.0
+16    38999.0
+17    24999.0
+18    39998.0
+Name: Current MRP, dtype: float64",0.0,0,OnePlus,OnePlus 12 ,Black,256,12
+"OnePlus Nord 4 5G (Mercurial , RAM, Storage)",4.1,135,500,32999.0,35999,8.0,0,OnePlus,OnePlus Nord 4 5G ,Silver,256,12
+"OnePlus Nord CE 3 Lite 5G (Pastel Lime, RAM, Storage)",4.2,7015,400,19990.0,21999,9.0,0,OnePlus,OnePlus Nord CE 3 Lite 5G ,Black,256,8
+"OnePlus 12R (Cool , RAM, Storage)",4.2,310,1000,38999.0,42999,9.0,0,OnePlus,OnePlus 12R ,Blue,256,8
+"(Refurbished) OnePlus 9RT 5G Nano , RAM, Storage +Alexa hands-free capable",3.7,13,0,24999.0,49999,50.0,0,OnePlus,"OnePlus 9RT 5G Nano Silver, 12GB RAM, 256GB Storage +Alexa hands-free capable",Silver,256,12
+"OnePlus 12R (Cool , RAM, Storage)",4.4,610,500,39998.0,"2     66999.0
+3     27999.0
+4     61999.0
+5     20999.0
+6     19998.0
+7     61999.0
+8     32999.0
+9     19990.0
+16    38999.0
+17    24999.0
+18    39998.0
+Name: Current MRP, dtype: float64",0.0,0,OnePlus,OnePlus 12R ,Blue,128,8
+"OnePlus Nord CE 2 Lite 5G ( Tide, RAM, Storage)",4.3,150734,100,17490.0,19999,13.0,0,OnePlus,OnePlus Nord CE 2 Lite 5G ,Blue,128,6
+"OnePlus Nord 3 5G (Misty , RAM, Storage)",4.1,2700,50,21990.0,33999,35.0,0,OnePlus,OnePlus Nord 3 5G ,Green,128,8
+"OnePlus Nord 4 5G (Oasis , RAM, Storage)",4.0,212,1000,27999.0,29999,7.0,0,OnePlus,OnePlus Nord 4 5G ,Green,128,8
+"OnePlus Nord CE 2 Lite 5G ( Dusk, RAM, Storage)",4.3,150734,0,18490.0,19999,8.0,0,OnePlus,OnePlus Nord CE 2 Lite 5G ,Black,128,6
+"OnePlus 11 5G (Eternal , RAM, Storage)",4.4,2234,0,61999.0,"3     17490
+4     21990
+5     27999
+8     18490
+15    61999
+Name: Current MRP, dtype: int64",0.0,0,OnePlus,OnePlus 11 5G ,Green,256,16
+"OnePlus Nord CE 2 Lite 5G ( Dusk, RAM, Storage)",4.3,150734,0,18990.0,21999,14.0,0,OnePlus,OnePlus Nord CE 2 Lite 5G ,Black,128,8
+"(Refurbished) OnePlus OnePlus Nord 2 5G (Gray Sierra, RAM, Storage)",2.4,54,0,18999.0,29999,37.0,0,OnePlus,OnePlus OnePlus Nord 2 5G ,Gray,128,8
+"(Refurbished) OnePlus Nord CE 2 Lite 5G ( Tide, RAM, Storage)",2.6,11,0,14399.0,17490,18.0,0,OnePlus,OnePlus Nord CE 2 Lite 5G ,Blue,128,6
+"OnePlus Pad 2(12.1 Inch)LCD Display, RAM, Storage,Snapdragon 8 Gen 3,144Hz Refresh Rate,Dolby Vision & Atmos,Open Canvas,AI features,6 speakers,Wi-Fi with Cellular Data Sharing [Nimbus Gray]",4.4,747,400,42999.0,47999,10.0,0,OnePlus,OnePlus Pad 2,Gray,256,12
+"(Refurbished) OnePlus 9R 5G Lake , RAM, Storage",2.9,29,0,19999.0,41999,52.0,0,OnePlus,"OnePlus 9R 5G Lake Blue, 12GB RAM, 256GB Storage",Blue,256,12
+"(Refurbished) OnePlus 9 Pro 5G (Stellar , RAM, Storage)",2.5,7,0,24499.0,49999,51.0,0,OnePlus,OnePlus 9 Pro 5G ,Black,128,8
+"(Refurbished) OnePlus 8T 5G Lunar , RAM, Storage",3.1,8,0,17099.0,35999,53.0,0,OnePlus,"OnePlus 8T 5G Lunar Silver, 8GB RAM, 128GB Storage",Silver,128,8
+"(Refurbished) OnePlus Nord 3 5G (Misty , RAM, Storage)",1.0,2,0,19999.0,33999,41.0,0,OnePlus,OnePlus Nord 3 5G ,Green,128,8
+"OPPO A3X 4G (Nebula , RAM, Storage)| with No Cost EMI/Additional Exchange Offers",4.7,13,300,8999.0,12999,31.0,1,Unknown,"OPPO A3X 4G (Nebula , RAM, Storage)| with No Cost EMI/Additional Exchange Offers",Red,64,4
+"Oppo F27 Pro+ 5G (Midnight Navy, RAM, Storage) | 6.7"" FHD+ AMOLED Toughest 3D Curved Display|64MP AI Featu Camera|IP69 | 67W SUPERVOOC| with No Cost EMI/Additional Exchange Offers",3.9,178,500,29999.0,34999,14.0,1,Oppo,Oppo F27 Pro+ 5G ,Black,256,8
+"Oppo A3 Pro 5G (Moonlight Purple, RAM, Storage)|6.67” HD+ 120Hz Refresh Rate Screen | 45W SUPERVOOC|with No Cost EMI/Additional Exchange Offers",3.7,73,300,17999.0,20999,14.0,1,Oppo,Oppo A3 Pro 5G ,Black,128,8
+"OPPO A3 5G (Nebula , RAM, Storage)",4.2,29,400,15999.0,19999,20.0,1,Unknown,"OPPO A3 5G (Nebula , RAM, Storage)",Red,128,6
+"Oppo F27 5G (Emerald , RAM, Storage) | 6.67"" FHD+ AMOLED Display|32MP Sony IMX615 Selfie Camera |AI Portrait Expert| 45W SUPERVOOC| with No Cost EMI/Additional Exchange Offers",3.5,28,400,20999.0,26999,22.0,1,Oppo,Oppo F27 5G ,Green,128,8
+"Oppo F27 5G (Emerald , RAM, Storage) | 6.67"" FHD+ AMOLED Display|32MP Sony IMX615 Selfie Camera |AI Portrait Expert| 45W SUPERVOOC| with No Cost EMI/Additional Exchange Offers",3.3,29,400,22999.0,28999,21.0,1,Oppo,Oppo F27 5G ,Green,256,8
+"OPPO A3 5G (Ocean , RAM, Storage)",4.2,29,200,15999.0,19999,20.0,1,Unknown,"OPPO A3 5G (Ocean , RAM, Storage)",Blue,128,6
+"OPPO A3X 5G (Starry Purple, RAM, Storage)|6.67” HD+ 120Hz Refresh Rate Screen | 45W SUPERVOOC|with No Cost EMI/Additional Exchange Offers",3.4,77,200,13499.0,15999,16.0,1,Unknown,"OPPO A3X 5G (Starry Purple, RAM, Storage)|6.67” HD+ 120Hz Refresh Rate Screen | 45W SUPERVOOC|with No Cost EMI/Additional Exchange Offers",Black,128,4
+"Oppo F27 Pro+ 5G (Dusk Pink, RAM, Storage)| 6.7"" FHD+ AMOLED Toughest 3D Curved Display|64MP AI Featu Camera|IP69 | 67W SUPERVOOC| with No Cost EMI/Additional Exchange Offers",4.0,52,200,29999.0,34999,14.0,1,Oppo,Oppo F27 Pro+ 5G ,Pink,256,8
+"OPPO A3X 5G (Starry Purple, RAM, Storage)|6.67” HD+ 120Hz Refresh Rate Screen | 45W SUPERVOOC|with No Cost EMI/Additional Exchange Offers",3.4,77,50,12499.0,14999,17.0,1,Unknown,"OPPO A3X 5G (Starry Purple, RAM, Storage)|6.67” HD+ 120Hz Refresh Rate Screen | 45W SUPERVOOC|with No Cost EMI/Additional Exchange Offers",Black,64,4
+"Oppo A3 Pro 5G (Moonlight Purple, RAM, Storage)|6.67” HD+ 120Hz Refresh Rate Screen | 45W SUPERVOOC|with No Cost EMI/Additional Exchange Offers",3.7,57,200,19999.0,22999,13.0,1,Oppo,Oppo A3 Pro 5G ,Black,256,8
+"Oppo F27 Pro+ 5G (Midnight Navy, RAM, Storage) | 6.7"" FHD+ AMOLED Toughest 3D Curved Display|64MP AI Featu Camera|IP69 | 67W SUPERVOOC| with No Cost EMI/Additional Exchange Offers",4.1,70,200,27999.0,32999,15.0,1,Oppo,Oppo F27 Pro+ 5G ,Black,128,8
+"Oppo A3 Pro 5G (Starry , RAM, Storage)|6.67” HD+ 120Hz Refresh Rate Screen | 45W SUPERVOOC|with No Cost EMI/Additional Exchange Offers",4.1,21,100,19999.0,22999,13.0,1,Oppo,Oppo A3 Pro 5G ,Black,256,8
+"Oppo Reno 11 Pro 5G (Pearl , RAM Storage)",3.0,26,100,28945.0,44999,36.0,1,Oppo,Oppo Reno 11 Pro 5G ,White,256,12
+"Oppo A3 Pro 5G (Starry , RAM, Storage)|6.67” HD+ 120Hz Refresh Rate Screen | 45W SUPERVOOC|with No Cost EMI/Additional Exchange Offers",3.7,18,100,17999.0,20999,14.0,1,Oppo,Oppo A3 Pro 5G ,Black,128,8
+"Oppo F27 5G (Amber Orange, RAM, Storage) | 6.67"" FHD+ AMOLED Display|32MP Sony IMX615 Selfie Camera |AI Portrait Expert| 45W SUPERVOOC| with No Cost EMI/Additional Exchange Offers",3.1,11,50,20999.0,26999,22.0,1,Oppo,Oppo F27 5G ,Black,128,8
+"OPPO A3X 4G (Ocean , RAM, Storage) | with No Cost EMI/Additional Exchange Offers",4.7,13,200,8999.0,12999,31.0,1,Unknown,"OPPO A3X 4G (Ocean , RAM, Storage) | with No Cost EMI/Additional Exchange Offers",Blue,64,4
+"OPPO A3X 5G (Sparkle , RAM, Storage)|6.67” HD+ 120Hz Refresh Rate Screen | 45W SUPERVOOC|with No Cost EMI/Additional Exchange Offers",3.4,77,50,13499.0,15999,16.0,1,Unknown,"OPPO A3X 5G (Sparkle , RAM, Storage)|6.67” HD+ 120Hz Refresh Rate Screen | 45W SUPERVOOC|with No Cost EMI/Additional Exchange Offers",Black,128,4
+"Oppo F27 Pro+ 5G (Dusk Pink, RAM, Storage) | 6.7"" FHD+ AMOLED Toughest 3D Curved Display|64MP AI Featu Camera|IP69 | 67W SUPERVOOC| with No Cost EMI/Additional Exchange Offers",3.9,44,50,27999.0,32999,15.0,1,Oppo,Oppo F27 Pro+ 5G ,Pink,128,8
+"OPPO A3X 5G (Starlight , RAM, Storage)|6.67” HD+ 120Hz Refresh Rate Screen | 45W SUPERVOOC|with No Cost EMI/Additional Exchange Offers",3.4,77,50,13499.0,15999,16.0,1,Unknown,"OPPO A3X 5G (Starlight , RAM, Storage)|6.67” HD+ 120Hz Refresh Rate Screen | 45W SUPERVOOC|with No Cost EMI/Additional Exchange Offers",White,128,4
+"Oppo F27 5G (Amber Orange, RAM, Storage) | 6.67"" FHD+ AMOLED Display|32MP Sony IMX615 Selfie Camera |AI Portrait Expert| 45W SUPERVOOC| with No Cost EMI/Additional Exchange Offers",3.0,12,50,22999.0,28999,21.0,1,Oppo,Oppo F27 5G ,Black,256,8
+"Oppo F27 Pro+ 5G (Dusk Pink, RAM, Storage) | 6.7"" FHD+ AMOLED Toughest 3D Curved Display|64MP AI Featu Camera|IP69 | 67W SUPERVOOC| with No Cost EMI/Additional Exchange Offers",3.9,44,50,27999.0,32999,15.0,1,Oppo,Oppo F27 Pro+ 5G ,Pink,128,8
+"(Refurbished) Oppo A17k (, RAM, Storage) with No Cost EMI/Additional Exchange Offers",3.4,3,0,5999.0,12999,54.0,1,Oppo,Oppo A17k ,Blue,64,3
+"OPPO A3X 4G (Ocean , RAM, Storage) | with No Cost EMI/Additional Exchange Offers",4.7,13,200,8999.0,12999,31.0,1,Unknown,"OPPO A3X 4G (Ocean , RAM, Storage) | with No Cost EMI/Additional Exchange Offers",Blue,64,4
+"OPPO A3X 5G (Sparkle , RAM, Storage)|6.67” HD+ 120Hz Refresh Rate Screen | 45W SUPERVOOC|with No Cost EMI/Additional Exchange Offers",3.4,77,0,12499.0,14999,17.0,1,Unknown,"OPPO A3X 5G (Sparkle , RAM, Storage)|6.67” HD+ 120Hz Refresh Rate Screen | 45W SUPERVOOC|with No Cost EMI/Additional Exchange Offers",Black,64,4
+"OPPO A3X 5G (Starlight , RAM, Storage)|6.67” HD+ 120Hz Refresh Rate Screen | 45W SUPERVOOC|with No Cost EMI/Additional Exchange Offers",3.4,77,0,12499.0,14999,17.0,1,Unknown,"OPPO A3X 5G (Starlight , RAM, Storage)|6.67” HD+ 120Hz Refresh Rate Screen | 45W SUPERVOOC|with No Cost EMI/Additional Exchange Offers",White,64,4
+"OPPO F27 5G (Emerald , RAM, Storage) Without Offer",5.0,1,50,19228.0,26999,29.0,1,Unknown,"OPPO F27 5G (Emerald , RAM, Storage) Without Offer",Green,128,8
+"OPPO A74 5G (Fluid , RAM, Storage) with No Cost EMI/Additional Exchange Offers",4.2,15271,0,18999.0,20990,9.0,0,Unknown,"OPPO A74 5G (Fluid , RAM, Storage) with No Cost EMI/Additional Exchange Offers",Black,128,6
+"OPPO A9 2020 (Space Purple, RAM, Storage)",4.2,1470,0,13490.0,18990,29.0,0,Unknown,"OPPO A9 2020 (Space Purple, RAM, Storage)",Black,128,4
+"OPPO F11 Pro (Thunder , RAM, Storage)",4.3,2472,0,17999.0,28990,38.0,0,Unknown,"OPPO F11 Pro (Thunder , RAM, Storage)",Black,64,6
+"(Refurbished) OPPO Reno3 Pro (Auroral , RAM, Storage)",3.8,58,0,12999.0,29999,57.0,0,Unknown,"(Refurbished) OPPO Reno3 Pro (Auroral , RAM, Storage)",Blue,128,8
+"Oppo Reno 11 Pro 5G (Rock Grey, RAM+ Storage)",3.8,17,0,32996.0,44999,27.0,0,Oppo,Oppo Reno 11 Pro 5G ,Black,256,12
+"(Refurbished) Oppo A17 (Lake , RAM, Storage)",3.5,9,0,9199.0,14999,39.0,0,Oppo,Oppo A17 ,Blue,64,4
+"OPPO K10 ( Flame, RAM Storage)",4.1,469,0,14990.0,18999,21.0,0,Unknown,"OPPO K10 ( Flame, RAM Storage)",Blue,128,6
+"Oppo Reno7 Pro 5G (Startrails , RAM, Storage)",4.1,416,0,33999.0,47990,29.0,0,Oppo,Oppo Reno7 Pro 5G ,Blue,256,12
+"(Refurbished) Oppo A17k (Navy , RAM, Storage)",3.5,10,0,5999.0,12999,54.0,0,Oppo,Oppo A17k ,Blue,64,3
+"OPPO A9 2020 (Marine , RAM, Storage)",4.2,1470,0,13490.0,18990,29.0,0,Unknown,"OPPO A9 2020 (Marine , RAM, Storage)",Green,128,4
+"(Refurbished) OPPO A58 (Glowing , RAM, Storage) | 5000 mAh Battery and 33W SUPERVOOC | 6.72"" FHD+ Punch Hole Display | Dual Stereo Speakers with No Cost EMI/Additional Exchange Offers",4.0,4,0,9499.0,15499,39.0,0,Unknown,"(Refurbished) OPPO A58 (Glowing , RAM, Storage) | 5000 mAh Battery and 33W SUPERVOOC | 6.72"" FHD+ Punch Hole Display | Dual Stereo Speakers with No Cost EMI/Additional Exchange Offers",Black,128,6
+"(Refurbished) Oppo A57 (Glowing , RAM, Storage) Without Offer",2.8,18,0,8499.0,16990,50.0,0,Oppo,Oppo A57 ,Black,64,4
+"(Refurbished) OPPO A16k (, RAM, Storage)",2.8,10,0,7299.0,16999,57.0,0,Unknown,"(Refurbished) OPPO A16k (, RAM, Storage)",White,32,3
+"(Refurbished) Oppo F23 5G (Bold Gold, RAM, Storage) | 5000 mAh Battery with 67W SUPERVOOC Charger | 64MP Rear Triple AI Camera with Microlens | 6.72"" FHD+ 120Hz Display | with Offers",3.2,26,0,16150.0,28999,44.0,0,Oppo,Oppo F23 5G ,Gold,256,8
+"realme NARZO 70x 5G (Ice , RAM, Storage)|120Hz Ultra Smooth Display|Dimensity 6100+ 6nm 5G|50MP AI Camera|45W Charger in The Box",4.0,1352,5000,12998.0,17999,28.0,1,Unknown,"realme NARZO 70x 5G (Ice , RAM, Storage)|120Hz Ultra Smooth Display|Dimensity 6100+ 6nm 5G|50MP AI Camera|45W Charger in The Box",Blue,128,6
+"realme NARZO N61 (Voyage , RAM+ Storage) 90Hz Eye Comfort Display | IP54 Dust & Water Resistance | 48-Month Fluency | Charger in The Box",4.0,263,5000,7498.0,8999,17.0,1,Unknown,"realme NARZO N61 (Voyage , RAM+ Storage) 90Hz Eye Comfort Display | IP54 Dust & Water Resistance | 48-Month Fluency | Charger in The Box",Blue,64,4
+"realme NARZO 70 Turbo 5G (Turbo Yellow, RAM, Storage) | Segment's Fastest Dimensity 7300 Energy 5G Chipset | Motorsports Inspi Design",4.2,400,3000,16998.0,19999,15.0,1,Unknown,"realme NARZO 70 Turbo 5G (Turbo Yellow, RAM, Storage) | Segment's Fastest Dimensity 7300 Energy 5G Chipset | Motorsports Inspi Design",Black,128,6
+"realme NARZO N61 (Marble , RAM+ Storage) 90Hz Eye Comfort Display | IP54 Dust & Water Resistance | 48-Month Fluency | Charger in The Box",4.2,139,4000,7499.0,8999,17.0,1,Unknown,"realme NARZO N61 (Marble , RAM+ Storage) 90Hz Eye Comfort Display | IP54 Dust & Water Resistance | 48-Month Fluency | Charger in The Box",Black,64,4
+"realme NARZO N65 5G (Amber Gold RAM, Storage) India's 1st D6300 5G Chipset | Ultra Slim Design | 120Hz Eye Comfort Display | 50MP AI Camera| Charger in The Box",4.2,571,5000,12498.0,14999,17.0,1,Unknown,"realme NARZO N65 5G (Amber Gold RAM, Storage) India's 1st D6300 5G Chipset | Ultra Slim Design | 120Hz Eye Comfort Display | 50MP AI Camera| Charger in The Box",Gold,128,6
+"realme 12X 5G (Woodland , RAM, Storage)",4.1,98,2000,12824.0,18999,33.0,1,Unknown,"realme 12X 5G (Woodland , RAM, Storage)",Green,128,8
+"realme NARZO N65 5G (Deep RAM, Storage) India's 1st D6300 5G Chipset | Ultra Slim Design | 120Hz Eye Comfort Display | 50MP AI Camera| Charger in The Box",4.0,438,5000,12498.0,14999,17.0,1,Unknown,"realme NARZO N65 5G (Deep RAM, Storage) India's 1st D6300 5G Chipset | Ultra Slim Design | 120Hz Eye Comfort Display | 50MP AI Camera| Charger in The Box",Green,128,6
+"realme NARZO 70 Turbo 5G (Turbo , RAM, Storage) | Segment's Fastest Dimensity 7300 Energy 5G Chipset | Motorsports Inspi Design",4.0,56,500,16998.0,19999,15.0,1,Unknown,"realme NARZO 70 Turbo 5G (Turbo , RAM, Storage) | Segment's Fastest Dimensity 7300 Energy 5G Chipset | Motorsports Inspi Design",Green,128,6
+"realme 12+ 5G (Navigator Beige, RAM, Storage)",3.7,123,500,17299.0,25999,33.0,1,Unknown,"realme 12+ 5G (Navigator Beige, RAM, Storage)",Black,256,8
+"realme NARZO 70 Pro 5G (Glass Gold, RAM, Storage) Dimensity 7050 5G Chipset | Horizon Glass Design | Segment 1st Flagship Sony IMX890 OIS Camera",4.2,567,5000,15498.0,24999,38.0,1,Unknown,"realme NARZO 70 Pro 5G (Glass Gold, RAM, Storage) Dimensity 7050 5G Chipset | Horizon Glass Design | Segment 1st Flagship Sony IMX890 OIS Camera",Gold,128,8
+"realme GT 6T 5G (Razor , RAM+ Storage) | India's 1st 7+ Gen 3 Flagship Chipset | 1.5M+AnTuTu Score | 5500mAh+120W | The World's Brightest Flagship Display",4.3,182,1000,35998.0,37999,5.0,1,Unknown,"realme GT 6T 5G (Razor , RAM+ Storage) | India's 1st 7+ Gen 3 Flagship Chipset | 1.5M+AnTuTu Score | 5500mAh+120W | The World's Brightest Flagship Display",Green,256,12
+"realme NARZO 70 Turbo 5G (Turbo Purple, RAM, Storage) | Segment's Fastest Dimensity 7300 Energy 5G Chipset | Motorsports Inspi Design",4.2,202,1000,17998.0,20999,14.0,1,Unknown,"realme NARZO 70 Turbo 5G (Turbo Purple, RAM, Storage) | Segment's Fastest Dimensity 7300 Energy 5G Chipset | Motorsports Inspi Design",Black,128,8
+"realme P1 5G (Phonix , RAM, Storage)",4.0,520,500,16649.0,21999,24.0,1,Unknown,"realme P1 5G (Phonix , RAM, Storage)",Red,128,8
+"realme NARZO N65 5G (Deep RAM, Storage) India's 1st D6300 5G Chipset | Ultra Slim 190g Design | 120Hz Eye Comfort Display | 50MP AI Camera| Charger in The Box",4.1,68,3000,13498.0,15999,16.0,1,Unknown,"realme NARZO N65 5G (Deep RAM, Storage) India's 1st D6300 5G Chipset | Ultra Slim 190g Design | 120Hz Eye Comfort Display | 50MP AI Camera| Charger in The Box",Green,128,8
+"realme GT 6T 5G (Razor , RAM+ Storage) | India's 1st 7+ Gen 3 Flagship Chipset | 1.5M+AnTuTu Score | 5500mAh+120W | The World's Brightest Flagship Display",4.1,121,200,39999.0,41999,5.0,0,Unknown,"realme GT 6T 5G (Razor , RAM+ Storage) | India's 1st 7+ Gen 3 Flagship Chipset | 1.5M+AnTuTu Score | 5500mAh+120W | The World's Brightest Flagship Display",Green,512,12
+"realme NARZO 70 Turbo 5G (Turbo Yellow, RAM, Storage) | Segment's Fastest Dimensity 7300 Energy 5G Chipset | Motorsports Inspi Design",4.2,99,500,20998.0,23999,13.0,0,Unknown,"realme NARZO 70 Turbo 5G (Turbo Yellow, RAM, Storage) | Segment's Fastest Dimensity 7300 Energy 5G Chipset | Motorsports Inspi Design",Black,256,12
+"realme 12x 5G (Woodland , RAM, Storage) | Upto (6+) Dynamic RAM | Dimensity 6100+ Processor | 50 MP AI Camera | 7.69 mm Ultra-Slim Trendy Watch Design | 45 W SUPERVOOC Charge",4.1,256,1000,12346.0,17999,31.0,0,Unknown,"realme 12x 5G (Woodland , RAM, Storage) | Upto (6+) Dynamic RAM | Dimensity 6100+ Processor | 50 MP AI Camera | 7.69 mm Ultra-Slim Trendy Watch Design | 45 W SUPERVOOC Charge",Green,128,6
+"realme GT 6T 5G (Miracle Purple, RAM+ Storage) | India's 1st 7+ Gen 3 Flagship Chipset | 1.5M + AnTuTu Score | 5500mAh+120W | The World's Brightest Flagship Display",4.4,176,300,32998.0,35999,8.0,0,Unknown,"realme GT 6T 5G (Miracle Purple, RAM+ Storage) | India's 1st 7+ Gen 3 Flagship Chipset | 1.5M + AnTuTu Score | 5500mAh+120W | The World's Brightest Flagship Display",Black,256,8
+"realme GT 6T 5G (Fluid , RAM+ Storage) | India's 1st 7+ Gen 3 Flagship Chipset | 1.5M+AnTuTu Score | 5500mAh+120W | The World's Brightest Flagship Display",4.3,391,500,30998.0,33999,9.0,0,Unknown,"realme GT 6T 5G (Fluid , RAM+ Storage) | India's 1st 7+ Gen 3 Flagship Chipset | 1.5M+AnTuTu Score | 5500mAh+120W | The World's Brightest Flagship Display",Silver,128,8
+"realme 12+ 5G (Pioneer , RAM, Storage)",3.9,280,100,18999.0,25999,27.0,0,Unknown,"realme 12+ 5G (Pioneer , RAM, Storage)",Green,256,8
+realme P1 Pro 5G ( RAM & Storage) (Parrot ),4.0,132,0,20999.0,25999,19.0,0,Unknown,realme P1 Pro 5G ( RAM & Storage) (Parrot ),Blue,256,12
+"realme NARZO N65 5G (Amber Gold RAM, Storage) India's 1st D6300 5G Chipset | Ultra Slim Design | 120Hz Eye Comfort Display | 50MP AI Camera| Charger in The Box",3.9,54,2000,13498.0,15999,16.0,0,Unknown,"realme NARZO N65 5G (Amber Gold RAM, Storage) India's 1st D6300 5G Chipset | Ultra Slim Design | 120Hz Eye Comfort Display | 50MP AI Camera| Charger in The Box",Gold,128,8
+"realme 12 Pro+ 5G (Navigator Beige, RAM, Storage) | 6.7"" 120Hz Curved AMOLED Display | 64MP Periscope + 50MP Sony IMX 890 OIS Camera + 8MP | 32MP Selfie Camera | 67W Super VOOC Charge",4.1,454,100,27949.0,37999,26.0,0,Unknown,"realme 12 Pro+ 5G (Navigator Beige, RAM, Storage) | 6.7"" 120Hz Curved AMOLED Display | 64MP Periscope + 50MP Sony IMX 890 OIS Camera + 8MP | 32MP Selfie Camera | 67W Super VOOC Charge",Black,256,12
+"realme 13 5G (Speed , RAM, Storage) | Expandable Upto 2TB | Up to Dynamic RAM | 50MP AI Dual Camera | 6.72"" AMOLED Display | 45W Ultra Charging | Dimensity 6300 Processor",4.0,32,500,14450.0,21999,34.0,0,Unknown,"realme 13 5G (Speed , RAM, Storage) | Expandable Upto 2TB | Up to Dynamic RAM | 50MP AI Dual Camera | 6.72"" AMOLED Display | 45W Ultra Charging | Dimensity 6300 Processor",Green,128,8
+"realme NARZO 70 5G（Ice , RAM, Storage | Dimensity 7050 5G Chipset | 120Hz AMOLED Display | 50MP Primary Camera | 45W Charger in The Box",4.1,637,0,15999.0,19999,20.0,0,Unknown,"realme NARZO 70 5G（Ice , RAM, Storage | Dimensity 7050 5G Chipset | 120Hz AMOLED Display | 50MP Primary Camera | 45W Charger in The Box",Blue,128,6
+"realme 12X 5G (Twilight Purple, RAM, Storage)",4.0,231,500,12146.0,17999,33.0,0,Unknown,"realme 12X 5G (Twilight Purple, RAM, Storage)",Black,128,6
+"realme P1 Pro 5G (Parrot , RAM, Storage) | Up to Dynamic RAM | Snapdragon 6 Gen 1 Processor | 6.7"" Curved AMOLED Display | 50MP + 8MP | 16MP Front Camera | IP65 Water Resistance",4.0,132,200,17495.0,24999,30.0,0,Unknown,"realme P1 Pro 5G (Parrot , RAM, Storage) | Up to Dynamic RAM | Snapdragon 6 Gen 1 Processor | 6.7"" Curved AMOLED Display | 50MP + 8MP | 16MP Front Camera | IP65 Water Resistance",Blue,128,8
+"realme NARZO 70 5G（Ice , RAM, Storage | Dimensity 7050 5G Chipset | 120Hz AMOLED Display | 50MP Primary Camera | 45W Charger in The Box",4.1,637,0,15999.0,19999,20.0,1,Unknown,"realme NARZO 70 5G（Ice , RAM, Storage | Dimensity 7050 5G Chipset | 120Hz AMOLED Display | 50MP Primary Camera | 45W Charger in The Box",Blue,128,6
+"realme 12X 5G (Twilight Purple, RAM, Storage)",4.0,231,500,12146.0,17999,33.0,1,Unknown,"realme 12X 5G (Twilight Purple, RAM, Storage)",Black,128,6
+"realme P1 Pro 5G (Parrot , RAM, Storage) | Up to Dynamic RAM | Snapdragon 6 Gen 1 Processor | 6.7"" Curved AMOLED Display | 50MP + 8MP | 16MP Front Camera | IP65 Water Resistance",4.0,132,200,17495.0,24999,30.0,1,Unknown,"realme P1 Pro 5G (Parrot , RAM, Storage) | Up to Dynamic RAM | Snapdragon 6 Gen 1 Processor | 6.7"" Curved AMOLED Display | 50MP + 8MP | 16MP Front Camera | IP65 Water Resistance",Blue,128,8
+"realme 13 5G (Speed , RAM, Storage) | Expandable Upto 2TB | Up to Dynamic RAM | 50MP AI Dual Camera | 6.72"" AMOLED Display | 45W Ultra Charging | Dimensity 6300 Processor",4.0,32,500,14450.0,21999,34.0,1,Unknown,"realme 13 5G (Speed , RAM, Storage) | Expandable Upto 2TB | Up to Dynamic RAM | 50MP AI Dual Camera | 6.72"" AMOLED Display | 45W Ultra Charging | Dimensity 6300 Processor",Green,128,8
+"realme GT 6T 5G (Razor , RAM+ Storage) | India's 1st 7+ Gen 3 Flagship Chipset | 1.5M + AnTuTu Score | 5500mAh+120W | The World's Brightest Flagship Display",4.4,715,500,32998.0,35999,8.0,1,Unknown,"realme GT 6T 5G (Razor , RAM+ Storage) | India's 1st 7+ Gen 3 Flagship Chipset | 1.5M + AnTuTu Score | 5500mAh+120W | The World's Brightest Flagship Display",Green,256,8
+"realme 12x 5G (Coral , RAM, Storage) | Upto (8+) Dynamic RAM | Dimensity 6100+ Processor | 50 MP AI Camera | 7.69 mm Ultra-Slim Trendy Watch Design | 45 W SUPERVOOC Charge",4.1,7,300,14499.0,18999,24.0,1,Unknown,"realme 12x 5G (Coral , RAM, Storage) | Upto (8+) Dynamic RAM | Dimensity 6100+ Processor | 50 MP AI Camera | 7.69 mm Ultra-Slim Trendy Watch Design | 45 W SUPERVOOC Charge",Red,128,8
+"realme C63 5G (Starry Gold, RAM, Storage)",3.6,11,300,11427.0,14990,24.0,1,Unknown,"realme C63 5G (Starry Gold, RAM, Storage)",Gold,128,6
+"realme 13 5G (Speed , RAM, Storage) | Expandable Upto 2TB | Up to Dynamic RAM | 50MP AI Dual Camera | 6.72"" AMOLED Display | 45W Ultra Charging | Dimensity 6300 Processor",4.0,32,200,16200.0,22999,30.0,1,Unknown,"realme 13 5G (Speed , RAM, Storage) | Expandable Upto 2TB | Up to Dynamic RAM | 50MP AI Dual Camera | 6.72"" AMOLED Display | 45W Ultra Charging | Dimensity 6300 Processor",Green,256,8
+"realme 12+ 5G (Navigator Beige, RAM, Storage)| Expandable Upto 2TB |MediaTek Dimensity 7050 Processor |Ultra-Smooth AMOLED Display | 50MP Sony LYT-600 OIS Portrait Cam | 67 W SUPERVOOCCharge",4.0,39,50,16990.0,23999,29.0,0,Unknown,"realme 12+ 5G (Navigator Beige, RAM, Storage)| Expandable Upto 2TB |MediaTek Dimensity 7050 Processor |Ultra-Smooth AMOLED Display | 50MP Sony LYT-600 OIS Portrait Cam | 67 W SUPERVOOCCharge",Black,128,8
+"realme GT 6T 5G (Fluid , RAM+ Storage) | India's 1st 7+ Gen 3 Flagship Chipset | 1.5M + AnTuTu Score | 5500mAh+120W | The World's Brightest Flagship Display",4.2,147,500,35998.0,37999,5.0,0,Unknown,"realme GT 6T 5G (Fluid , RAM+ Storage) | India's 1st 7+ Gen 3 Flagship Chipset | 1.5M + AnTuTu Score | 5500mAh+120W | The World's Brightest Flagship Display",Silver,256,12
+"realme P1 5G (Peacock , RAM, Storage)",4.0,520,500,15980.0,21999,27.0,0,Unknown,"realme P1 5G (Peacock , RAM, Storage)",Green,128,8
+"realme C63 5G (Forest , RAM, Storage)",4.0,14,200,11978.0,13999,14.0,0,Unknown,"realme C63 5G (Forest , RAM, Storage)",Green,128,6
+"realme NARZO 70 Turbo 5G (Turbo , RAM, Storage) | Segment's Fastest Dimensity 7300 Energy 5G Chipset | Motorsports Inspi Design",4.7,41,500,17998.0,20999,14.0,0,Unknown,"realme NARZO 70 Turbo 5G (Turbo , RAM, Storage) | Segment's Fastest Dimensity 7300 Energy 5G Chipset | Motorsports Inspi Design",Green,128,8
+"realme NARZO 70 Turbo 5G (Turbo Purple, RAM, Storage) | Segment's Fastest Dimensity 7300 Energy 5G Chipset | Motorsports Inspi Design",4.2,34,200,20998.0,23999,13.0,0,Unknown,"realme NARZO 70 Turbo 5G (Turbo Purple, RAM, Storage) | Segment's Fastest Dimensity 7300 Energy 5G Chipset | Motorsports Inspi Design",Black,256,12
+"Samsung Galaxy M35 5G (Daybreak , RAM, Storage)| Corning Gorilla Glass Victus+| AnTuTu Score 595K+ | Vapour Cooling Chamber | 6000mAh Battery | 120Hz Super AMOLED Display| Without Charger",4.1,4527,2000,23499.0,27499,15.0,1,Samsung,Samsung Galaxy M35 5G ,Blue,256,8
+"Samsung Galaxy M35 5G (Daybreak , RAM, Storage)| Corning Gorilla Glass Victus+| AnTuTu Score 595K+ | Vapour Cooling Chamber | 6000mAh Battery | 120Hz Super AMOLED Display| Without Charger",4.1,4527,5000,18999.0,24499,22.0,1,Samsung,Samsung Galaxy M35 5G ,Blue,128,6
+"Samsung Galaxy A35 5G (Awesome Ice, RAM, Storage) | Premium Glass Back | 50 MP Main Camera (OIS) | Nightography | IP67 | Corning Gorilla Glass Victus+ | sAMOLED with Vision Booster",3.8,439,500,30999.0,33999,9.0,1,Samsung,Samsung Galaxy A35 5G ,Black,128,8
+"Samsung Galaxy M15 5G Prime Edition (Stone Grey, RAM, Storage)| Super AMOLED Display| 50MP Triple Cam| 6000mAh Battery| MediaTek Dimensity 6100+| 4 Gen. OS Upgrade & 5 Year Security Update",3.9,573,1000,13499.0,15999,16.0,1,Samsung,Samsung Galaxy M15 5G Prime Edition ,Black,128,4
+"Samsung Galaxy M35 5G (Moonlight , RAM, Storage)| Corning Gorilla Glass Victus+| AnTuTu Score 595K+ | Vapour Cooling Chamber | 6000mAh Battery | 120Hz Super AMOLED Display| Without Charger",4.1,4527,3000,23499.0,27499,15.0,1,Samsung,Samsung Galaxy M35 5G ,Blue,256,8
+"Samsung Galaxy M35 5G (Thunder Grey, RAM, Storage)| Corning Gorilla Glass Victus+| AnTuTu Score 595K+ | Vapour Cooling Chamber | 6000mAh Battery | 120Hz Super AMOLED Display| Without Charger",4.1,4527,5000,18999.0,24499,22.0,1,Samsung,Samsung Galaxy M35 5G ,Black,128,6
+"Samsung Galaxy M55s 5G (Coral , RAM, Storage) | 50MP Triple Cam| 5000mAh Battery| Snapdragon 7 Gen 1 | 4 Gen. OS Upgrade & 5 Year Security Update| Super AMOLED+ Display| Without Charger",3.2,355,2000,22999.0,28999,21.0,1,Samsung,Samsung Galaxy M55s 5G ,Green,128,8
+"Samsung Galaxy M15 5G Prime Edition ( Topaz, RAM, Storage) | Super AMOLED Display| 50MP Triple Cam| 6000mAh Battery| MediaTek Dimensity 6100+ | 4 Gen. OS Upgrade & 5 Year Security Update",3.9,573,5000,14999.0,16999,12.0,1,Samsung,Samsung Galaxy M15 5G Prime Edition ,Blue,128,6
+"Samsung Galaxy M35 5G (Moonlight , RAM, Storage)| Corning Gorilla Glass Victus+| AnTuTu Score 595K+ | Vapour Cooling Chamber | 6000mAh Battery | 120Hz Super AMOLED Display| Without Charger",4.1,4527,5000,18999.0,24499,22.0,1,Samsung,Samsung Galaxy M35 5G ,Blue,128,6
+"Samsung Galaxy M15 5G Prime Edition ( Topaz, RAM, Storage) | Super AMOLED Display| 50MP Triple Cam| 6000mAh Battery| MediaTek Dimensity 6100+ | 4 Gen. OS Upgrade & 5 Year Security Update",3.9,573,3000,13499.0,15999,16.0,0,Samsung,Samsung Galaxy M15 5G Prime Edition ,Blue,128,4
+"Samsung Galaxy M33 5G (Mystique , , Storage) | 6000mAh Battery | Upto RAM with RAM Plus | Without Charger",4.1,35249,200,17190.0,24999,31.0,0,Samsung,Samsung Galaxy M33 5G ,Green,128,16
+"Samsung Galaxy A55 5G (Awesome Ice, RAM, Storage) | Metal Frame | 50 MP Main Camera (OIS) | Nightography | IP67 | Corning Gorilla Glass Victus+ | sAMOLED with Vision Booster",4.0,327,200,45999.0,48999,6.0,0,Samsung,Samsung Galaxy A55 5G ,Black,256,12
+"Samsung Galaxy M55s 5G (Thunder , RAM, Storage) | 50MP Triple Cam| 5000mAh Battery| Snapdragon 7 Gen 1 | 4 Gen. OS Upgrade & 5 Year Security Update| Super AMOLED+ Display| Without Charger",3.2,355,1000,22999.0,28999,21.0,0,Samsung,Samsung Galaxy M55s 5G ,Black,128,8
+"Samsung Galaxy A35 5G (Awesome Lilac, RAM, Storage) | Premium Glass Back | 50 MP Main Camera (OIS) | Nightography | IP67 | Corning Gorilla Glass Victus+ | sAMOLED with Vision Booster",3.8,439,400,30999.0,33999,9.0,0,Samsung,Samsung Galaxy A35 5G ,Black,128,8
+"Samsung Galaxy S21 FE 5G (Graphite, RAM, Storage) with Snapdragon 888 Processor",3.9,1730,200,30799.0,74999,59.0,0,Samsung,Samsung Galaxy S21 FE 5G ,Black,256,8
+"Samsung Galaxy S21 FE 5G (Graphite, RAM, Storage) with Snapdragon 888 Processor",3.9,1730,200,30799.0,74999,59.0,1,Samsung,Samsung Galaxy S21 FE 5G ,Black,256,8
+"Samsung Galaxy Z Flip6 5G AI Smartphone (Mint, RAM, Storage)",4.3,73,0,101999.0,121999,16.0,1,Samsung,Samsung Galaxy Z Flip6 5G AI Smartphone ,Black,512,12
+"Samsung Galaxy M15 5G Prime Edition (Celestial , RAM, Storage)| Super AMOLED Display| 50MP Triple Cam| 6000mAh Battery| MediaTek Dimensity 6100+| 4 Gen. OS Upgrade & 5 Year Security Update",3.9,573,1000,16499.0,17999,8.0,1,Samsung,Samsung Galaxy M15 5G Prime Edition ,Blue,128,8
+"Samsung Galaxy Note 20 Ultra 5G (Mystic Bronze, RAM, Storage) with No Cost EMI/Additional Exchange Offers",4.4,1383,0,64999.0,129000,50.0,1,Samsung,Samsung Galaxy Note 20 Ultra 5G ,Black,256,12
+"Samsung Galaxy A35 5G (Awesome Ice, RAM, Storage) | Premium Glass Back | 50 MP Main Camera (OIS) | Nightography | IP67 | Corning Gorilla Glass Victus+ | sAMOLED with Vision Booster",3.8,439,400,33999.0,36999,8.0,1,Samsung,Samsung Galaxy A35 5G ,Black,256,8
+"Samsung Galaxy M15 5G Prime Edition (Stone Grey, RAM, Storage)| Super AMOLED Display| 50MP Triple Cam| 6000mAh Battery| MediaTek Dimensity 6100+| 4 Gen. OS Upgrade & 5 Year Security Update",3.9,573,1000,16499.0,17999,8.0,1,Samsung,Samsung Galaxy M15 5G Prime Edition ,Black,128,8
+"Samsung Galaxy Note 20 Ultra 5G (Mystic Bronze, RAM, Storage) with No Cost EMI/Additional Exchange Offers",4.4,1383,0,64999.0,129000,50.0,1,Samsung,Samsung Galaxy Note 20 Ultra 5G ,Black,256,12
+"Samsung Galaxy Z Fold4 5G (Beige, RAM, Storage) with No Cost EMI/Additional Exchange Offers",2.3,174,50,88970.0,177999,50.0,1,Samsung,Samsung Galaxy Z Fold4 5G ,Black,256,12
+"Samsung Galaxy A35 5G (Awesome Lilac, RAM, Storage) | Premium Glass Back | 50 MP Main Camera (OIS) | Nightography | IP67 | Corning Gorilla Glass Victus+ | sAMOLED with Vision Booster",3.8,439,200,33999.0,36999,8.0,1,Samsung,Samsung Galaxy A35 5G ,Black,256,8
+"Samsung Galaxy A35 5G (Awesome Ice, RAM, Storage) | Premium Glass Back | 50 MP Main Camera (OIS) | Nightography | IP67 | Corning Gorilla Glass Victus+ | sAMOLED with Vision Booster",3.8,439,400,33999.0,36999,8.0,1,Samsung,Samsung Galaxy A35 5G ,Black,256,8
+"Samsung Galaxy M55s 5G (Coral , RAM, Storage) | 50MP Triple Cam| 5000mAh Battery| Snapdragon 7 Gen 1 | 4 Gen. OS Upgrade & 5 Year Security Update| Super AMOLED+ Display| Without Charger",3.2,355,1000,25999.0,31999,19.0,1,Samsung,Samsung Galaxy M55s 5G ,Green,256,8
+"Samsung Galaxy A35 5G (Awesome Navy, RAM, Storage) | Premium Glass Back | 50 MP Main Camera (OIS) | Nightography | IP67 | Corning Gorilla Glass Victus+ | sAMOLED with Vision Booster",3.8,439,300,30999.0,33999,9.0,1,Samsung,Samsung Galaxy A35 5G ,Black,128,8
+"Samsung Galaxy Z Flip6 5G AI Smartphone (Mint, RAM, Storage)",4.3,73,0,101999.0,121999,16.0,1,Samsung,Samsung Galaxy Z Flip6 5G AI Smartphone ,Black,512,12
+"Samsung Galaxy S20 FE 5G (Cloud Navy, RAM, Storage)",4.2,36520,200,26750.0,74999,64.0,1,Samsung,Samsung Galaxy S20 FE 5G ,Black,128,8
+"Samsung Galaxy A55 5G (Awesome Navy, RAM, Storage) | Metal Frame | 50 MP Main Camera (OIS) | Nightography | IP67 | Corning Gorilla Glass Victus+ | sAMOLED with Vision Booster",4.0,327,300,45999.0,48999,6.0,1,Samsung,Samsung Galaxy A55 5G ,Black,256,12
+"samsung Galaxy A35 5G (Awesome Navy, RAM, Storage) Without Offer",3.2,13,200,26590.0,36999,28.0,1,Samsung,"samsung Galaxy A35 5G (Awesome Navy, RAM, Storage) Without Offer",Black,256,8
+"Samsung Galaxy A16 5G (Gold, RAM, Storage) | Super AMOLED | 50MP Triple Camera with Ultra Wide Lens | 6 OS & 6 Years Security Updates | IP54 | Tap & Pay | 5000mAh",3.3,11,50,18999.0,21499,12.0,1,Samsung,Samsung Galaxy A16 5G ,Gold,128,8
+"Samsung Galaxy M15 5G Prime Edition (Celestial , RAM, Storage)| Super AMOLED Display| 50MP Triple Cam| 6000mAh Battery| MediaTek Dimensity 6100+| 4 Gen. OS Upgrade & 5 Year Security Update",3.9,573,1000,16499.0,17999,8.0,1,Samsung,Samsung Galaxy M15 5G Prime Edition ,Blue,128,8
+"Samsung Galaxy A35 5G (Awesome Navy, RAM, Storage) | Premium Glass Back | 50 MP Main Camera (OIS) | Nightography | IP67 | Corning Gorilla Glass Victus+ | sAMOLED with Vision Booster",3.8,439,200,33999.0,36999,8.0,1,Samsung,Samsung Galaxy A35 5G ,Black,256,8
+"Samsung Galaxy M53 5G (Deep Ocean , , Storage) | 108MP | sAmoled+ 120Hz | RAM with RAM Plus | Without Charger",4.0,12329,0,19999.0,32999,39.0,1,Samsung,Samsung Galaxy M53 5G ,Blue,128,12
+"Samsung Galaxy A55 5G (Awesome Ice, RAM, Storage) | Metal Frame | 50 MP Main Camera (OIS) | Nightography | IP67 | Corning Gorilla Glass Victus+ | sAMOLED with Vision Booster",4.0,327,100,42999.0,45999,7.0,1,Samsung,Samsung Galaxy A55 5G ,Black,256,8
+"Samsung Galaxy S20 FE 5G (Cloud Mint, RAM, Storage)",4.2,36520,50,25999.0,74999,65.0,1,Samsung,Samsung Galaxy S20 FE 5G ,Black,128,8
+"Samsung Galaxy S21 FE 5G (Navy, RAM, Storage) with Snapdragon 888 Processor",3.9,1730,50,30499.0,74999,59.0,1,Samsung,Samsung Galaxy S21 FE 5G ,Black,256,8
+"Samsung Galaxy S24 FE 5G AI Smartphone (Graphite, RAM, Storage)",4.4,6,100,57849.0,65999,12.0,0,Samsung,Samsung Galaxy S24 FE 5G AI Smartphone ,Black,256,8
+"Samsung Galaxy S20 FE 5G (Cloud Mint, RAM, Storage)",4.2,36520,50,25999.0,74999,65.0,0,Samsung,Samsung Galaxy S20 FE 5G ,Black,128,8
+"Samsung Galaxy S21 FE 5G (Lavender, RAM, Storage) with Snapdragon 888 Processor",3.9,1730,0,31999.0,74999,57.0,0,Samsung,Samsung Galaxy S21 FE 5G ,Black,256,8
+"Samsung Galaxy A55 5G (Awesome Ice, RAM, Storage) | Metal Frame | 50 MP Main Camera (OIS) | Nightography | IP67 | Corning Gorilla Glass Victus+ | sAMOLED with Vision Booster",4.0,327,100,42999.0,45999,7.0,0,Samsung,Samsung Galaxy A55 5G ,Black,256,8
+"Samsung Galaxy A55 5G (Awesome Ice, RAM, Storage) | Metal Frame | 50 MP Main Camera (OIS) | Nightography | IP67 | Corning Gorilla Glass Victus+ | sAMOLED with Vision Booster",4.0,327,200,39999.0,42999,7.0,0,Samsung,Samsung Galaxy A55 5G ,Black,128,8
+"samsung Galaxy A35 5G (Awesome Navy, RAM, Storage) Without Offer",3.2,13,200,26590.0,36999,28.0,0,Samsung,"samsung Galaxy A35 5G (Awesome Navy, RAM, Storage) Without Offer",Black,256,8
+"Samsung Galaxy M15 5G Prime Edition (Stone Grey, RAM, Storage)| Super AMOLED Display| 50MP Triple Cam| 6000mAh Battery| MediaTek Dimensity 6100+| 4 Gen. OS Upgrade & 5 Year Security Update",3.9,573,1000,13499.0,15999,16.0,0,Samsung,Samsung Galaxy M15 5G Prime Edition ,Black,128,4
+"Samsung Galaxy M15 5G Prime Edition (Stone Grey, RAM, Storage)| Super AMOLED Display| 50MP Triple Cam| 6000mAh Battery| MediaTek Dimensity 6100+| 4 Gen. OS Upgrade & 5 Year Security Update",3.9,573,1000,16499.0,17999,8.0,0,Samsung,Samsung Galaxy M15 5G Prime Edition ,Black,128,8
+"Samsung Galaxy S24 FE 5G AI Smartphone (, RAM, Storage)",3.9,3,100,56499.0,79999,29.0,0,Samsung,Samsung Galaxy S24 FE 5G AI Smartphone ,Blue,256,8
+"samsung Galaxy A55 5G (Awesome Ice, RAM, Storage) Without Offer",4.0,327,0,39999.0,44999,11.0,0,Samsung,"samsung Galaxy A55 5G (Awesome Ice, RAM, Storage) Without Offer",Black,256,12
+"Samsung Galaxy M15 5G Prime Edition (Stone Grey, RAM, Storage)| Super AMOLED Display| 50MP Triple Cam| 6000mAh Battery| MediaTek Dimensity 6100+| 4 Gen. OS Upgrade & 5 Year Security Update",3.9,573,5000,14999.0,16999,12.0,0,Samsung,Samsung Galaxy M15 5G Prime Edition ,Black,128,6
+"Samsung Galaxy A55 5G (Awesome Navy, RAM, Storage) | Metal Frame | 50 MP Main Camera (OIS) | Nightography | IP67 | Corning Gorilla Glass Victus+ | sAMOLED with Vision Booster",4.0,327,100,42999.0,45999,7.0,0,Samsung,Samsung Galaxy A55 5G ,Black,256,8
+"Samsung Galaxy Z Fold6 5G AI Smartphone ( Shadow, RAM, Storage)",4.3,73,0,152499.0,164999,8.0,0,Samsung,Samsung Galaxy Z Fold6 5G AI Smartphone ,Silver,256,12
+"Samsung Galaxy A06 (, RAM, Storage)| 50 MP Main Camera| Upto RAM with RAM Plus| MediaTek Helio G85| 5000 mAh Battery Knox Vault: Security & Privacy| Fingerprint Sensor",1.8,7,50,9998.0,11499,13.0,0,Samsung,Samsung Galaxy A06 ,Black,64,4
+"Samsung Galaxy A55 5G (Awesome Navy, RAM, Storage) | Metal Frame | 50 MP Main Camera (OIS) | Nightography | IP67 | Corning Gorilla Glass Victus+ | sAMOLED with Vision Booster",4.0,327,50,39999.0,42999,7.0,0,Samsung,Samsung Galaxy A55 5G ,Black,128,8
+"Samsung Galaxy Z Fold6 5G AI Smartphone ( Shadow, RAM, Storage)",4.3,73,0,152499.0,164999,8.0,1,Samsung,Samsung Galaxy Z Fold6 5G AI Smartphone ,Silver,256,12
+"Samsung Galaxy A06 (Gold, RAM, Storage)| 50 MP Main Camera| Upto RAM with RAM Plus| MediaTek Helio G85| 5000 mAh Battery Knox Vault: Security & Privacy| Fingerprint Sensor",1.8,7,0,11498.0,12499,8.0,1,Samsung,Samsung Galaxy A06 ,Gold,128,4
+"samsung Galaxy A55 5G (Awesome Ice, RAM, Storage) Without Offer",4.0,327,0,39999.0,44999,11.0,1,Samsung,"samsung Galaxy A55 5G (Awesome Ice, RAM, Storage) Without Offer",Black,256,12
+"Samsung Galaxy M30 (Gradation , RAM, Super AMOLED Display, Storage, 5000mAH Battery)",4.2,110405,0,16490.0,"2     152499.0
+6      11498.0
+8      39999.0
+12     16490.0
+20     16499.0
+Name: Current MRP, dtype: float64",0.0,1,Samsung,Samsung Galaxy M30 ,Blue,64,4
+"Samsung Galaxy M15 5G Prime Edition (Stone Grey, RAM, Storage)| Super AMOLED Display| 50MP Triple Cam| 6000mAh Battery| MediaTek Dimensity 6100+| 4 Gen. OS Upgrade & 5 Year Security Update",3.9,573,1000,16499.0,17999,8.0,1,Samsung,Samsung Galaxy M15 5G Prime Edition ,Black,128,8
+"Samsung Galaxy Z Flip4 5G (Pink Gold, RAM, Storage) with No Cost EMI/Additional Exchange Offers",3.5,41,0,59990.0,106999,44.0,1,Samsung,Samsung Galaxy Z Flip4 5G ,Pink,256,8
+"Samsung Galaxy S20 Ultra (Cosmic Gray, RAM, Storage) with No Cost EMI/Additional Exchange Offers",4.2,285,0,69999.0,99999,30.0,1,Samsung,Samsung Galaxy S20 Ultra ,Gray,128,12
+"(Refurbished) Samsung Galaxy Z Flip5 5G (Mint, RAM, Storage)",2.8,13,0,57999.0,99999,42.0,1,Samsung,Samsung Galaxy Z Flip5 5G ,Black,256,8
+"Samsung Galaxy A16 5G (Light , RAM, Storage) | Super AMOLED | 50MP Triple Camera with Ultra Wide Lens | 6 OS & 6 Years Security Updates | IP54 | Tap & Pay | 5000mAh",3.3,11,0,21999.0,24499,10.0,1,Samsung,Samsung Galaxy A16 5G ,Green,256,8
+"samsung Galaxy A55 5G (Awesome Navy, RAM, Storage) Without Offer",4.0,327,0,31979.0,42999,26.0,1,Samsung,"samsung Galaxy A55 5G (Awesome Navy, RAM, Storage) Without Offer",Black,128,8
+"Samsung Galaxy Z Fold6 5G AI Smartphone (Navy, RAM, Storage)",4.3,73,0,156999.0,176999,11.0,1,Samsung,Samsung Galaxy Z Fold6 5G AI Smartphone ,Black,512,12
+"Samsung Galaxy A06 (, RAM, Storage) Without Offer",5.0,1,0,8900.0,11499,23.0,1,Samsung,Samsung Galaxy A06 ,Black,64,4
+"Samsung Galaxy Z Flip6 5G AI Smartphone (, RAM, Storage) Without Offer",1.0,1,50,79230.0,109999,28.0,1,Samsung,Samsung Galaxy Z Flip6 5G AI Smartphone ,Blue,256,12
+"Samsung Galaxy Z Fold6 5G AI Smartphone ( Shadow, RAM, Storage)",4.3,73,0,164499.0,176999,7.0,1,Samsung,Samsung Galaxy Z Fold6 5G AI Smartphone ,Silver,512,12
+"Samsung Galaxy S20 Ultra (Cosmic Gray, RAM, Storage) with No Cost EMI/Additional Exchange Offers",4.2,285,0,69999.0,99999,30.0,1,Samsung,Samsung Galaxy S20 Ultra ,Gray,128,12
+"Samsung Galaxy A13 , RAM, Storage with No Cost EMI/Additional Exchange Offers, (SM-A135FZKJINS)",4.0,1432,0,13580.0,20990,35.0,1,Samsung,"Samsung Galaxy A13 Black, 6GB RAM, 128GB Storage with No Cost EMI/Additional Exchange Offers, ",Black,128,6
+"Vivo V40e 5G AI Smartphone (Royal Bronze, RAM + Storage)",4.6,11,500,28275.0,35999,21.0,0,Vivo,Vivo V40e 5G AI Smartphone ,Black,256,8
+"vivo Y58 5G (Himalayan , RAM, Storage) with No Cost EMI/Additional Exchange Offers",4.0,52,500,18499.0,23999,23.0,0,Unknown,"vivo Y58 5G (Himalayan , RAM, Storage) with No Cost EMI/Additional Exchange Offers",Blue,128,8
+"Vivo V30e 5G Smartphone (Silk , RAM, Storage)",4.3,39,200,23000.0,32999,30.0,0,Vivo,Vivo V30e 5G Smartphone ,Blue,128,8
+"vivo Y28s 5G (Vintage , RAM, Storage) with No Cost EMI/Additional Exchange Offers",3.7,74,500,14999.0,19999,25.0,0,Unknown,"vivo Y28s 5G (Vintage , RAM, Storage) with No Cost EMI/Additional Exchange Offers",Red,128,6
+"Vivo V30e 5G Smartphone (Velvet , RAM, Storage)",4.3,41,200,23000.0,32999,30.0,0,Vivo,Vivo V30e 5G Smartphone ,Red,128,8
+"Vivo V30e 5G Smartphone (Velvet , RAM, Storage)",4.3,39,300,25388.0,34999,27.0,0,Vivo,Vivo V30e 5G Smartphone ,Red,256,8
+"vivo Y18 (Space , RAM, Storage) with No Cost EMI/Additional Exchange Offers | Without Charger",3.4,14,100,8499.0,12999,35.0,0,Unknown,"vivo Y18 (Space , RAM, Storage) with No Cost EMI/Additional Exchange Offers | Without Charger",Black,64,4
+"vivo Y58 5G (Sundarbans , RAM, Storage) with No Cost EMI/Additional Exchange Offers",4.0,52,400,18499.0,23999,23.0,0,Unknown,"vivo Y58 5G (Sundarbans , RAM, Storage) with No Cost EMI/Additional Exchange Offers",Green,128,8
+"Vivo Y200e 5G (Saffron Delight, RAM, Storage) with No Cost EMI/Additional Exchange Offers",4.1,311,100,20999.0,25999,19.0,0,Vivo,Vivo Y200e 5G ,Black,128,8
+"Vivo V40e 5G AI Smartphone (Mint , RAM + Storage)",2.2,4,200,26475.0,33999,22.0,1,Vivo,Vivo V40e 5G AI Smartphone ,Green,128,8
+"vivo Y18i (Gem , RAM, Storage) with No Cost EMI/Additional Exchange Offers |Without Charger",3.7,43,500,7999.0,11999,33.0,1,Unknown,"vivo Y18i (Gem , RAM, Storage) with No Cost EMI/Additional Exchange Offers |Without Charger",Green,64,4
+"Vivo V40 5G Smartphone (Lotus Purple, RAM, Storage)",3.9,30,400,34849.0,42999,19.0,1,Vivo,Vivo V40 5G Smartphone ,Black,256,8
+"vivo Y18i (Space , RAM, Storage) with No Cost EMI/Additional Exchange Offers |Without Charger",3.7,43,500,7999.0,11999,33.0,1,Unknown,"vivo Y18i (Space , RAM, Storage) with No Cost EMI/Additional Exchange Offers |Without Charger",Black,64,4
+"Vivo V40 5G Smartphone ( Grey, RAM, Storage)",3.9,11,100,32130.0,39999,20.0,1,Vivo,Vivo V40 5G Smartphone ,Black,128,8
+"vivo Y28s 5G (Vintage , RAM, Storage) with No Cost EMI/Additional Exchange Offers",3.7,74,300,13499.0,17999,25.0,1,Unknown,"vivo Y28s 5G (Vintage , RAM, Storage) with No Cost EMI/Additional Exchange Offers",Red,128,4
+"Vivo Y300 Plus 5G (Silk , RAM, Storage) with No Cost EMI/Additional Exchange Offers",2.7,7,50,23999.0,29999,20.0,1,Vivo,Vivo Y300 Plus 5G ,Green,128,8
+"Vivo V30 5G (Peacock , RAM, Storage) without Offers",4.3,16,50,25989.0,38999,33.0,1,Vivo,Vivo V30 5G ,Green,128,8
+"Vivo V40 5G Smartphone (Ganges , RAM, Storage)",3.7,20,200,31880.0,39999,20.0,1,Vivo,Vivo V40 5G Smartphone ,Blue,128,8
+"vivo V30 5G (Andaman , RAM, Storage) with Out Offers",4.0,13,100,26141.0,38999,33.0,1,Unknown,"vivo V30 5G (Andaman , RAM, Storage) with Out Offers",Blue,128,8
+"vivo Y28s 5G (Twinkling Purple, RAM, Storage) with No Cost EMI/Additional Exchange Offers",3.7,74,300,14999.0,19999,25.0,1,Unknown,"vivo Y28s 5G (Twinkling Purple, RAM, Storage) with No Cost EMI/Additional Exchange Offers",Black,128,6
+"Vivo Y200e 5G ( Diamond, RAM, Storage) with No Cost EMI/Additional Exchange Offers",4.1,311,100,20999.0,25999,19.0,1,Vivo,Vivo Y200e 5G ,Black,128,8
+"Vivo V30e 5G Smartphone (Silk , RAM, Storage)",4.4,7,200,24779.0,34999,29.0,0,Vivo,Vivo V30e 5G Smartphone ,Blue,256,8
+"vivo Y28e 5G (Breeze , RAM, Storage) with No Cost EMI/Additional Exchange Offers | Without Charger",3.7,74,100,11999.0,15999,25.0,0,Unknown,"vivo Y28e 5G (Breeze , RAM, Storage) with No Cost EMI/Additional Exchange Offers | Without Charger",Green,128,4
+"vivo Y28s 5G (Vintage , RAM, Storage) with No Cost EMI/Additional Exchange Offers",3.7,74,100,16499.0,21999,25.0,0,Unknown,"vivo Y28s 5G (Vintage , RAM, Storage) with No Cost EMI/Additional Exchange Offers",Red,128,8
+"Vivo V40 5G Smartphone (Lotus Purple, RAM, Storage)",4.1,24,300,32949.0,39999,18.0,0,Vivo,Vivo V40 5G Smartphone ,Black,128,8
+"vivo Y18 (Gem , RAM, Storage) with No Cost EMI/Additional Exchange Offers | Without Charger",3.8,37,50,9499.0,13999,32.0,0,Unknown,"vivo Y18 (Gem , RAM, Storage) with No Cost EMI/Additional Exchange Offers | Without Charger",Green,128,4
+"Vivo V40 Pro 5G AI Smartphone (Ganges , RAM+ Storage)",4.1,28,100,51520.0,60999,16.0,0,Vivo,Vivo V40 Pro 5G AI Smartphone ,Blue,512,12
+"Vivo Y200 5G Mobile (Jungle , RAM, Storage) with No Cost EMI/Additional Exchange Offers",3.9,144,200,22999.0,28999,21.0,0,Vivo,Vivo Y200 5G Mobile ,Green,256,8
+"Vivo Y28s 5G (Vintage , RAM, Storage) with outOffers",3.7,74,0,13574.0,19999,32.0,1,Vivo,Vivo Y28s 5G ,Red,128,6
+"vivo Y28e 5G (Vintage , RAM, Storage) with No Cost EMI/Additional Exchange Offers | Without Charger",3.7,74,50,11999.0,15999,25.0,1,Unknown,"vivo Y28e 5G (Vintage , RAM, Storage) with No Cost EMI/Additional Exchange Offers | Without Charger",Red,128,4
+"vivo X Fold3 Pro 5G (Celestial , RAM, Storage) with No Cost EMI/Additional Exchange Offers",4.9,18,0,159999.0,169999,6.0,1,Unknown,"vivo X Fold3 Pro 5G (Celestial , RAM, Storage) with No Cost EMI/Additional Exchange Offers",Black,512,16
+"Vivo V40 5G Smartphone (Ganges , RAM, Storage)",4.2,16,400,33943.0,42999,21.0,1,Vivo,Vivo V40 5G Smartphone ,Blue,256,8
+"vivo Y28e 5G (Breeze , RAM, Storage) with No Cost EMI/Additional Exchange Offers | Without Charger",3.7,74,100,10999.0,14999,27.0,1,Unknown,"vivo Y28e 5G (Breeze , RAM, Storage) with No Cost EMI/Additional Exchange Offers | Without Charger",Green,64,4
+"Vivo Y200 5G (Desert Gold, RAM, Storage) with No Cost EMI/Additional Exchange Offers",3.7,75,50,23000.0,28999,21.0,1,Vivo,Vivo Y200 5G ,Gold,256,8
+"vivo Y28e 5G (Vintage , RAM, Storage) with No Cost EMI/Additional Exchange Offers | Without Charger",3.7,74,200,10999.0,14999,27.0,1,Unknown,"vivo Y28e 5G (Vintage , RAM, Storage) with No Cost EMI/Additional Exchange Offers | Without Charger",Red,64,4
+"Vivo Y300 Plus 5G (Silk , RAM, Storage) with No Cost EMI/Additional Exchange Offers",2.7,7,0,23999.0,29999,20.0,1,Vivo,Vivo Y300 Plus 5G ,Black,128,8
+"Vivo V30 5G Smartphone, RAM Storage, Classic",4.2,14,100,26500.0,38999,32.0,1,Vivo,"Vivo V30 5G Smartphone, 8GB RAM 128GB Storage, Classic Black",Black,128,8
+"vivo Y200 Pro 5G (Silk , RAM, Storage) with No Cost EMI/Additional Exchange Offers | 3D Curved AMOLED Display",3.8,40,0,24999.0,29999,17.0,1,Unknown,"vivo Y200 Pro 5G (Silk , RAM, Storage) with No Cost EMI/Additional Exchange Offers | 3D Curved AMOLED Display",Black,128,8
+"Vivo Y27 (Garden , RAM, Storage) with No Cost EMI/Additional Exchange Offers",4.0,953,0,10999.0,18999,42.0,1,Vivo,Vivo Y27 ,Green,128,6
+"Vivo V40 Pro 5G AI Smartphone (Ganges , RAM+ Storage)",4.1,28,200,45965.0,54999,16.0,0,Vivo,Vivo V40 Pro 5G AI Smartphone ,Blue,256,8
+"vivo Y28s 5G (Twinkling Purple, RAM, Storage) with No Cost EMI/Additional Exchange Offers",3.7,74,100,13499.0,17999,25.0,0,Unknown,"vivo Y28s 5G (Twinkling Purple, RAM, Storage) with No Cost EMI/Additional Exchange Offers",Black,128,4
+"Vivo Y27 (Garden , RAM, Storage) with No Cost EMI/Additional Exchange Offers",4.0,953,0,10999.0,18999,42.0,0,Vivo,Vivo Y27 ,Green,128,6
+"Vivo V29 Pro 5G - RAM, Storage, 4600mAh Battery - Amoled Display, Dual Camera - 1-Year Warranty - No Charger/Data Cable ()",4.0,1,0,33249.0,44999,26.0,0,Vivo,"Vivo V29 Pro 5G - 8GB RAM, 256GB Storage, 4600mAh Battery - Amoled Display, Dual Camera - 1-Year Warranty - No Charger/Data Cable ",Black,256,8
+"vivo Y18e (Space , RAM, Storage) with No Cost EMI/Additional Exchange Offers | Without Charger",3.9,153,100,7999.0,11999,33.0,0,Unknown,"vivo Y18e (Space , RAM, Storage) with No Cost EMI/Additional Exchange Offers | Without Charger",Black,64,4
+"vivo Y28s 5G(Twinkling Purple, RAM, Storage) with No Cost EMI/Additional Exchange Offers",3.7,74,100,16499.0,21999,25.0,0,Unknown,"vivo Y28s 5G(Twinkling Purple, RAM, Storage) with No Cost EMI/Additional Exchange Offers",Black,128,8
+"Vivo V40 5G Smartphone ( Grey, RAM, Storage)",4.1,24,100,34781.0,42999,19.0,0,Vivo,Vivo V40 5G Smartphone ,Black,256,8
+"vivo Y18e (Gem , RAM, Storage) with No Cost EMI/Additional Exchange Offers | Without Charger",3.9,153,100,7999.0,11999,33.0,0,Unknown,"vivo Y18e (Gem , RAM, Storage) with No Cost EMI/Additional Exchange Offers | Without Charger",Green,64,4
+"vivo Y18 (Space , RAM, Storage) with No Cost EMI/Additional Exchange Offers | Without Charger",3.8,37,0,9499.0,13999,32.0,0,Unknown,"vivo Y18 (Space , RAM, Storage) with No Cost EMI/Additional Exchange Offers | Without Charger",Black,128,4
+"Vivo V29 Pro 5G - RAM, Storage, 4600mAh Battery - Amoled Display, Dual Camera - 1-Year Warranty - No Charger/Data Cable ()",4.0,1,0,31600.0,39999,21.0,0,Vivo,"Vivo V29 Pro 5G - 8GB RAM, 256GB Storage, 4600mAh Battery - Amoled Display, Dual Camera - 1-Year Warranty - No Charger/Data Cable ",Blue,256,8
+"vivo Y200 Pro 5G (Silk , RAM, Storage) with No Cost EMI/Additional Exchange Offers | 3D Curved AMOLED Display",3.8,40,0,24999.0,29999,17.0,0,Unknown,"vivo Y200 Pro 5G (Silk , RAM, Storage) with No Cost EMI/Additional Exchange Offers | 3D Curved AMOLED Display",Green,128,8
+"Xiaomi 14 (Jade , RAM, Storage) | 50MP Leica Professional Optics | 120 Hz 1.5K LTPO AMOLED | SD 8 Gen 3 Hyper OS",4.2,557,500,49999.0,79999,38.0,1,Xiaomi,Xiaomi 14 ,Green,512,12
+"Xiaomi 14 (, RAM, Storage) | 50MP Leica Professional Optics | 120 Hz 1.5K LTPO AMOLED | SD 8 Gen 3 Hyper OS",4.2,557,500,49999.0,79999,38.0,1,Xiaomi,Xiaomi 14 ,White,512,12
+"mi Note 13 Pro (Scarlet , RAM, Storage) | 1.5K AMOLED | 200MP Hi-Res Camera | Flagship 4nm SD 7s Gen 2 | 67W TurboCharge",4.2,46,300,19808.0,28999,32.0,1,Redmi,Redmi Note 13 Pro ,Red,128,8
+"Xiaomi 11T Pro 5G Hyperphone (Celestial Magic, RAM, Storage) |SD 888|120W HyperCharge|Segment's only Phone with Dolby Vision+Dolby Atmos",4.1,3947,0,23370.0,52999,56.0,1,Xiaomi,Xiaomi 11T Pro 5G Hyperphone ,Black,256,8
+"Xiaomi 11T Pro 5G Hyperphone (Moonlight , RAM, Storage) |SD 888|120W HyperCharge|Segment's only Phone with Dolby Vision+Dolby Atmos",4.1,3947,0,22950.0,52999,57.0,1,Xiaomi,Xiaomi 11T Pro 5G Hyperphone ,White,256,8
+"mi 13C 5G (Starlight , RAM, Storage) | MediaTek Dimensity 6100+ 5G | 90Hz Display",3.9,10021,5000,9199.0,13999,34.0,1,Redmi,Redmi 13C 5G ,Black,128,4
+"Xiaomi 11 Lite (Vinyl , RAM, Storage)",3.7,232,0,12920.0,25999,50.0,1,Xiaomi,Xiaomi 11 Lite ,Black,128,8
+"mi Note 13 5G (Arctic , RAM, Storage) | 5G Ready | 120Hz Bezel-Less AMOLED | 7.mm Slimmest Note Ever | 108MP Pro-Grade Camera",3.7,5707,1000,15999.0,20999,24.0,1,Redmi,Redmi Note 13 5G ,White,128,6
+"Xiaomi 14 CIVI (Shadow , RAM, Storage)",3.2,16,0,40999.0,54999,25.0,1,Xiaomi,Xiaomi 14 CIVI ,Black,256,8
+"mi Note 13 5G (Arctic , RAM, Storage) | 5G Ready | 120Hz Bezel-Less AMOLED | 7.mm Slimmest Note Ever | 108MP Pro-Grade Camera",3.7,5707,500,18999.0,24999,24.0,1,Redmi,Redmi Note 13 5G ,White,256,12
+"mi Note 13 Pro+ (Fusion , RAM, Storage)",3.8,863,200,31999.0,37999,16.0,1,Redmi,Redmi Note 13 Pro+ ,Black,512,12
+"mi Note 13 5G (Arctic , RAM, Storage) | 5G Ready | 120Hz Bezel-Less AMOLED | 7.mm Slimmest Note Ever | 108MP Pro-Grade Camera",3.7,5707,1000,15999.0,20999,24.0,1,Redmi,Redmi Note 13 5G ,White,128,6
+"mi Note 13 Pro (Midnight , RAM, Storage) | 1.5K AMOLED | 200MP Hi-Res Camera | Flagship 4nm SD 7s Gen 2 | 67W TurboCharge",3.9,1401,100,24999.0,30999,19.0,1,Redmi,Redmi Note 13 Pro ,Black,256,8
+"mi Note 13 Pro+ (Fusion , RAM, Storage) Without Offer",3.8,863,100,24102.0,33999,29.0,1,Redmi,Redmi Note 13 Pro+ ,White,256,8
+"Xiaomi 14 CIVI (Shadow , RAM, Storage)",2.8,5,0,42399.0,59999,29.0,1,Xiaomi,Xiaomi 14 CIVI ,Black,512,12
+"Xiaomi Mi A3 (More Than , RAM, Storage)",4.1,15056,0,9999.0,17499,43.0,1,Xiaomi,Xiaomi Mi A3 ,White,64,4
+"mi Note 13 5G (Chromatic Purple, RAM, Storage)",3.7,5707,1000,15860.0,22999,31.0,1,Redmi,Redmi Note 13 5G ,Red,256,8
+"mi Note 13 Pro (Arctic , RAM, Storage) Without Offer",3.9,1401,500,18100.0,28999,38.0,1,Redmi,Redmi Note 13 Pro ,White,128,8
+"mi Note 13 Pro+ (Fusion Purple, RAM, Storage) | World's First Mediatek 7200 Ultra 5G | 200MP Hi-Res Camera | 1.5K Curved AMOLED | 120W HyperCharge",3.8,863,500,27999.0,33999,18.0,1,Redmi,Redmi Note 13 Pro+ ,Red,256,8
+"mi Note 13 5G (Stealth , RAM, Storage) | 5G Ready | 120Hz Bezel-Less AMOLED | 7.mm Slimmest Note Ever | 108MP Pro-Grade Camera",3.7,5707,400,17999.0,22999,22.0,1,Redmi,Redmi Note 13 5G ,Black,256,8
+"Xiaomi 14 CIVI (Cruise , RAM, Storage)",3.4,8,0,40999.0,54999,25.0,1,Xiaomi,Xiaomi 14 CIVI ,Blue,256,8
+"Xiaomi 12 Pro | 5G (Noir , RAM, Storage) | Snapdragon 8 Gen 1 | 50+50+50MP Flagship Cameras (OIS) | 10bit 2K+ Curved AMOLED Display | Sound by Harman Kardon",3.9,4000,0,42999.0,84999,49.0,1,Xiaomi,Xiaomi 12 Pro | 5G ,Black,256,12
+"mi Note 12 Pro 5G (Onyx , RAM, Storage)",4.0,56,0,21999.0,32999,33.0,0,Redmi,Redmi Note 12 Pro 5G ,Black,256,12
+"mi Note 13 5G (Arctic , RAM, Storage) | 5G Ready | 120Hz Bezel-Less AMOLED | 7.mm Slimmest Note Ever | 108MP Pro-Grade Camera",3.7,5707,1000,15999.0,20999,24.0,0,Redmi,Redmi Note 13 5G ,White,128,6
+"Xiaomi Mi 11 Lite (Jazz , RAM, Storage)",3.7,232,0,12920.0,25999,50.0,0,Xiaomi,Xiaomi Mi 11 Lite ,Blue,128,8
+"Xiaomi 14 CIVI (Matcha , RAM, Storage)",4.2,6,0,38999.0,54999,29.0,0,Xiaomi,Xiaomi 14 CIVI ,Green,256,8
+"Xiaomi 14 CIVI (Cruise , RAM, Storage)",4.5,2,0,45999.0,59999,23.0,0,Xiaomi,Xiaomi 14 CIVI ,Blue,512,12
+"mi Note 13 Pro (Midnight , RAM, Storage) | 1.5K AMOLED | 200MP Hi-Res Camera | Flagship 4nm SD 7s Gen 2 | 67W TurboCharge",3.9,1401,300,25999.0,32999,21.0,0,Redmi,Redmi Note 13 Pro ,Black,256,12
+"mi Note 13 Pro+ World Champions Edition (Victory , RAM, Storage) | World's First Mediatek 7200 Ultra 5G | 200MP Hi-Res Camera | 1.5K Curved AMOLED | 120W HyperCharge",3.8,863,50,34999.0,44999,22.0,0,Redmi,Redmi Note 13 Pro+ World Champions Edition ,Blue,512,12
+"mi Note 13 Pro (Coral Purple, RAM, Storage) | 1.5K AMOLED | 200MP Hi-Res Camera | Flagship 4nm SD 7s Gen 2 | 67W TurboCharge",3.9,1401,500,25999.0,32999,21.0,0,Redmi,Redmi Note 13 Pro ,Red,256,12
+"mi Note 13 Pro+ (Fusion Purple, RAM, Storage) | World's First Mediatek 7200 Ultra 5G | 200MP Hi-Res Camera | 1.5K Curved AMOLED | 120W HyperCharge",3.8,863,500,31999.0,37999,16.0,0,Redmi,Redmi Note 13 Pro+ ,Red,512,12
+"mi Note 13 5G (Stealth , RAM, Storage) | 5G Ready | 120Hz Bezel-Less AMOLED | 7.mm Slimmest Note Ever | 108MP Pro-Grade Camera",3.7,5707,500,15999.0,20999,24.0,1,Redmi,Redmi Note 13 5G ,Black,128,6
+"Xiaomi 14 CIVI (Cruise , RAM, Storage)",4.5,2,0,45999.0,59999,23.0,1,Xiaomi,Xiaomi 14 CIVI ,Blue,512,12
+"mi Note 13 Pro+ (Fusion , RAM, Storage) | World's First Mediatek 7200 Ultra 5G | 200MP Hi-Res Camera | 1.5K Curved AMOLED | 120W HyperCharge",3.8,863,100,29999.0,35999,17.0,1,Redmi,Redmi Note 13 Pro+ ,Black,256,12
+"mi Note 13 Pro+ World Champions Edition (Victory , RAM, Storage) | World's First Mediatek 7200 Ultra 5G | 200MP Hi-Res Camera | 1.5K Curved AMOLED | 120W HyperCharge",3.8,863,50,34999.0,44999,22.0,1,Redmi,Redmi Note 13 Pro+ World Champions Edition ,Blue,512,12
+"Xiaomi 11T Pro 5G Hyperphone (Celestial Magic, RAM, Storage)|SD 888|120W HyperCharge|Segment's only Phone with Dolby Vision+Dolby Atmos",4.1,3947,0,26980.0,54999,51.0,1,Xiaomi,Xiaomi 11T Pro 5G Hyperphone ,Black,256,12
+"mi Note 13 Pro (Coral Purple, RAM, Storage) | 1.5K AMOLED | 200MP Hi-Res Camera | Flagship 4nm SD 7s Gen 2 | 67W TurboCharge",3.9,1401,500,25999.0,32999,21.0,1,Redmi,Redmi Note 13 Pro ,Red,256,12
+"mi Note 13 5G (Stealth , RAM, Storage) | 5G Ready | 120Hz Bezel-Less AMOLED | 7.mm Slimmest Note Ever | 108MP Pro-Grade Camera",3.7,5707,500,15999.0,20999,24.0,0,Redmi,Redmi Note 13 5G ,Black,128,6
+"mi Note 13 5G (Arctic , RAM, Storage) | 5G Ready | 120Hz Bezel-Less AMOLED | 7.mm Slimmest Note Ever | 108MP Pro-Grade Camera",3.7,5707,1000,15999.0,20999,24.0,0,Redmi,Redmi Note 13 5G ,White,128,6
+"mi 13C 5G (Startrail , RAM, Storage) | MediaTek Dimensity 6100+ 5G | 90Hz Display",3.9,10021,2000,10999.0,15999,31.0,0,Redmi,Redmi 13C 5G ,Green,128,6
+"Xiaomi 14 CIVI (Matcha , RAM, Storage)",4.3,5,0,45999.0,59999,23.0,0,Xiaomi,Xiaomi 14 CIVI ,Green,512,12
+"Xiaomi 11T Pro 5G Hyperphone (Meteorite , RAM, Storage) |SD 888|120W HyperCharge|Segment's only Phone with Dolby Vision+Dolby Atmos",4.0,2561,0,25990.0,69999,63.0,0,Xiaomi,Xiaomi 11T Pro 5G Hyperphone ,Black,256,8
+"(Refurbished) Xiaomi Mi A3 (Not just , RAM, AMOLED Display, Storage, 4030mAH Battery)",3.2,257,0,6999.0,13999,50.0,0,Xiaomi,Xiaomi Mi A3 ,Blue,128,6
+"mi 12 (Jade , RAM, Storage) Without Offer",3.9,9,300,9994.0,15999,38.0,0,Redmi,Redmi 12 ,Black,128,6
+"mi 7A (Matte , RAM, Storage)",4.1,8014,0,6999.0,15999,56.0,0,Redmi,Redmi 7A ,Black,32,2
+"mi Note 13 5G (Stealth , RAM, Storage) | 5G Ready | 120Hz Bezel-Less AMOLED | 7.mm Slimmest Note Ever | 108MP Pro-Grade Camera",3.7,5707,500,15999.0,20999,24.0,1,Redmi,Redmi Note 13 5G ,Black,128,6
+"mi 12 (Moonstone , RAM, Storage) Without Offer",3.6,10,300,9898.0,15999,38.0,1,Redmi,Redmi 12 ,Silver,128,6
+"mi Note 13 Pro (Arctic , RAM, Storage) | 1.5K AMOLED | 200MP Hi-Res Camera | Flagship 4nm SD 7s Gen 2 | 67W TurboCharge",3.9,1401,200,22999.0,28999,21.0,1,Redmi,Redmi Note 13 Pro ,White,128,8
+"mi Note 13 Pro (Coral Purple, RAM, Storage) Without Offer",3.9,1401,300,19178.0,28999,34.0,1,Redmi,Redmi Note 13 Pro ,Red,128,8
+"mi Note 13 Pro+ (Fusion , RAM, Storage) | World's First Mediatek 7200 Ultra 5G | 200MP Hi-Res Camera | 1.5K Curved AMOLED | 120W HyperCharge",3.8,863,50,31999.0,37999,16.0,1,Redmi,Redmi Note 13 Pro+ ,White,512,12
+"Xiaomi mi 10 Power (Sporty Orange, RAM, Storage)",4.1,2324,0,14748.0,18999,22.0,1,Xiaomi,Xiaomi Redmi 10 Power ,Red,128,8
+"(Refurbished) Xiaomi Mi A3 (Not just , RAM, AMOLED Display, Storage, 4030mAH Battery)",3.2,257,0,6999.0,13999,50.0,1,Xiaomi,Xiaomi Mi A3 ,Blue,128,6
+"mi 12 (Moonstone , RAM, Storage)",4.0,1241,0,9999.0,15999,38.0,1,Redmi,Redmi 12 ,Silver,128,6
+"mi 7A (Matte , RAM, Storage)",4.1,8014,0,6999.0,15999,56.0,1,Redmi,Redmi 7A ,Black,32,2
+"Xiaomi 11T Pro 5G Hyperphone (Meteorite , RAM, Storage) |SD 888|120W HyperCharge|Segment's only Phone with Dolby Vision+Dolby Atmos",4.0,2561,0,25990.0,69999,63.0,1,Xiaomi,Xiaomi 11T Pro 5G Hyperphone ,Black,256,8
+"mi Note 13 5G (Stealth , RAM, Storage) | 5G Ready | 120Hz Bezel-Less AMOLED | 7.mm Slimmest Note Ever | 108MP Pro-Grade Camera",3.7,5707,500,15999.0,20999,24.0,0,Redmi,Redmi Note 13 5G ,Black,128,6
+"Xiaomi Mi A3 (Not Just , RAM, Storage)",4.1,23772,0,9999.0,17499,43.0,0,Xiaomi,Xiaomi Mi A3 ,Blue,64,4
+"mi Note 13 Pro (Midnight , RAM, Storage) Without Offer",3.9,1401,200,23490.0,32999,29.0,0,Redmi,Redmi Note 13 Pro ,Black,256,12
+"mi Note 13 5G (Stealth , RAM, Storage) | 5G Ready | 120Hz Bezel-Less AMOLED | 7.mm Slimmest Note Ever | 108MP Pro-Grade Camera",3.7,5707,500,15999.0,20999,24.0,0,Redmi,Redmi Note 13 5G ,Black,128,6
+"mi Note 13 Pro+ (Fusion Purple, RAM, Storage) Without Offer",3.8,863,50,25499.0,35999,29.0,0,Redmi,Redmi Note 13 Pro+ ,Red,256,12
+"(Refurbished) Xiaomi 12 Pro | 5G (Couture , RAM, Storage) | Snapdragon 8 Gen 1 | 50MP+50MP+50MP Flagship Cameras(OIS) | 10 bit 2K+ AMOLED Display",3.5,50,0,27899.0,39990,30.0,0,Xiaomi,Xiaomi 12 Pro | 5G ,Blue,256,8
+"mi Note 13 5G (Arctic , RAM, Storage) | 5G Ready | 120Hz Bezel-Less AMOLED | 7.mm Slimmest Note Ever | 108MP Pro-Grade Camera",3.7,5707,1000,15999.0,20999,24.0,1,Redmi,Redmi Note 13 5G ,White,128,6
+"(Refurbished) Xiaomi 12 Pro | 5G (Couture , RAM, Storage) | Snapdragon 8 Gen 1 | 50MP+50MP+50MP Flagship Cameras(OIS) | 10 bit 2K+ AMOLED Display",3.5,50,0,27899.0,39990,30.0,1,Xiaomi,Xiaomi 12 Pro | 5G ,Blue,256,8
+"mi Note 8 (Moonlight , RAM, Storage)",4.2,8776,0,9999.0,16999,41.0,1,Redmi,Redmi Note 8 ,White,128,6
+"mi Note 10T 5G (Graphite , RAM, Storage) | Dual5G | 90Hz Adaptive Refresh Rate | MediaTek Dimensity 700 7nm Processor | 22.5W Charger Included",4.1,101748,0,13479.0,18999,29.0,1,Redmi,Redmi Note 10T 5G ,Black,128,6
+"mi Note 12 Pro 5G (Stardust Purple, RAM, Storage)",4.3,213,0,25580.0,32999,22.0,1,Redmi,Redmi Note 12 Pro 5G ,Red,256,12
+"(Refurbished) Xiaomi 11i 5G Hypercharge (Pacific Pearl, RAM, Storage), (MZB0A55IN)",3.6,4,0,17899.0,31999,44.0,1,Xiaomi,Xiaomi 11i 5G Hypercharge ,Black,128,6
+"(Refurbished) Xiaomi 11T Pro 5G Hyperphone(Meteorite , RAM, Storage)",3.3,82,0,17999.0,24280,26.0,1,Xiaomi,Xiaomi 11T Pro 5G Hyperphone,Black,128,8
+"(Refurbished) Xiaomi 11T Pro 5G Hyperphone(Celestial Magic, RAM, Storage)",3.3,82,0,16999.0,21499,21.0,1,Xiaomi,Xiaomi 11T Pro 5G Hyperphone,Black,128,8
+"mi Note 13 5G (Arctic , RAM, Storage) | 5G Ready | 120Hz Bezel-Less AMOLED | 7.mm Slimmest Note Ever | 108MP Pro-Grade Camera",3.7,5707,1000,15999.0,20999,24.0,1,Redmi,Redmi Note 13 5G ,White,128,6
+"(Refurbished) Xiaomi 11i 5G Hypercharge (Pacific Pearl, RAM, Storage), (MZB0A55IN)",3.6,4,0,17899.0,31999,44.0,1,Xiaomi,Xiaomi 11i 5G Hypercharge ,Black,128,6
+"(Refurbished) Xiaomi 11T Pro 5G Hyperphone(Meteorite , RAM, Storage)",3.3,82,0,17999.0,24280,26.0,1,Xiaomi,Xiaomi 11T Pro 5G Hyperphone,Black,128,8
+"mi Note 12 Pro 5G (Stardust Purple, RAM, Storage)",4.3,213,0,25580.0,32999,22.0,1,Redmi,Redmi Note 12 Pro 5G ,Red,256,12
+"(Refurbished) Xiaomi 11T Pro 5G Hyperphone(Moonlight , RAM, Storage)|SD 888 |120W HyperCharge|6 Months Free Screen Replacement for Prime| Exchange offers|Get 3 months of YouTube Premium free!",3.3,82,0,16999.0,21499,21.0,1,Xiaomi,Xiaomi 11T Pro 5G Hyperphone,White,128,8
+"mi Note 13 5G (Arctic , RAM, Storage) | 5G Ready | 120Hz Bezel-Less AMOLED | 7.mm Slimmest Note Ever | 108MP Pro-Grade Camera",3.7,5707,1000,15999.0,20999,24.0,0,Redmi,Redmi Note 13 5G ,White,128,6
+"mi Note 10T 5G (Graphite , RAM, Storage) | Dual5G | 90Hz Adaptive Refresh Rate | MediaTek Dimensity 700 7nm Processor | 22.5W Charger Included",4.1,101748,0,13479.0,18999,29.0,0,Redmi,Redmi Note 10T 5G ,Black,128,6
