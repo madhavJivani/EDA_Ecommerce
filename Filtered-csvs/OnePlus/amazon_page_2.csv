@@ -1,1 +1,21 @@
 Product Name,Rating (Stars),Number of Reviews,Bought Last Month,Current MRP,Dashed MRP,Discount (%),Free Delivery,Brand,Product,Color,RAM,Storage,New Bought Last Month,New Dashed MRP,New Discount (%)
+"Oneplus Nord CE4 (Celadon Marble, 8GB RAM, 256GB Storage)",4.2,"1,693",5K+ bought in past month,24999,₹26999,(7% off),Yes,Unknown,,Black,8GB,256GB,5000,26999,7.0
+"OnePlus 12R (Cool Blue, 16GB RAM, 256GB Storage)",4.3,635,1K+ bought in past month,40999,₹45999,(11% off),Yes,OnePlus,OnePlus 12R ,Blue,16GB,256GB,1000,45999,11.0
+"OnePlus Nord CE4 Lite 5G (Mega Blue, 8GB RAM, 128GB Storage)",4.1,712,5K+ bought in past month,17999,₹20999,(14% off),Yes,OnePlus,OnePlus Nord CE4 Lite 5G ,Blue,8GB,128GB,5000,20999,14.0
+"Oneplus Nord CE4 (Dark Chrome, 8GB RAM, 256GB Storage)",4.2,"1,301",4K+ bought in past month,24999,₹26999,(7% off),Yes,Unknown,,Black,8GB,256GB,4000,26999,7.0
+"OnePlus Nord 4 5G (Mercurial Silver, 8GB RAM, 256GB Storage)",4.2,248,1K+ bought in past month,29999,₹32999,(9% off),Yes,OnePlus,OnePlus Nord 4 5G ,Silver,8GB,256GB,1000,32999,9.0
+"Oneplus Open (Emerald Dusk, 16GB RAM, 512GB Storage)",4.3,84,200+ bought in past month,99999,₹139999,(29% off),Yes,Unknown,,Black,16GB,512GB,200,139999,29.0
+"OnePlus 12 (Silky Black, 16GB RAM, 512GB Storage)",4.4,591,500+ bought in past month,66999,₹69999,(4% off),Yes,OnePlus,OnePlus 12 ,Black,16GB,512GB,500,69999,4.0
+"OnePlus 12 (Glacial White, 12GB RAM, 256GB Storage)",4.5,186,100+ bought in past month,61999,₹64999,(5% off),Yes,OnePlus,OnePlus 12 ,White,12GB,256GB,100,64999,5.0
+"OnePlus 12 (Flowy Emerald, 12GB RAM, 256GB Storage)",4.4,967,400+ bought in past month,61999,,,Yes,OnePlus,OnePlus 12 ,Black,12GB,256GB,400,"2     24999
+3     40999
+9     17999
+12    24999
+13    29999
+14    99999
+15    66999
+17    61999
+18    61999
+19    32999
+Name: Current MRP, dtype: int64",0.0
+"OnePlus Nord 4 5G (Obsidian Midnight, 12GB RAM, 256GB Storage)",4.4,157,1K+ bought in past month,32999,₹35999,(8% off),Yes,OnePlus,OnePlus Nord 4 5G ,Black,12GB,256GB,1000,35999,8.0

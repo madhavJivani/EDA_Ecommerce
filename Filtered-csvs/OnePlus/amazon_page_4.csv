@@ -1,2 +1,11 @@
 Product Name,Rating (Stars),Number of Reviews,Bought Last Month,Current MRP,Dashed MRP,Discount (%),Free Delivery,Brand,Product,Color,RAM,Storage,New Bought Last Month,New Dashed MRP,New Discount (%)
-"Samsung Galaxy M35 5G (Thunder Grey,6GB RAM,128GB Storage)| Corning Gorilla Glass Victus+| AnTuTu Score 595K+ | Vapour Cooling Chamber | 6000mAh Battery | 120Hz Super AMOLED Display| Without Charger",4.1,768,5K+ bought in past month,16998,₹24499,(31% off),No,Unknown,,Black,6GB,128GB,5000,24499,31.0
+"OnePlus Nord CE 2 Lite 5G (Blue Tide, 6GB RAM, 128GB Storage)",4.3,"150,734",100+ bought in past month,17490,₹19999,(13% off),No,OnePlus,OnePlus Nord CE 2 Lite 5G ,Blue,6GB,128GB,100,19999,13.0
+"OnePlus Nord 3 5G (Misty Green, 8GB RAM, 128GB Storage)",4.1,"2,700",50+ bought in past month,21990,₹33999,(35% off),No,OnePlus,OnePlus Nord 3 5G ,Green,8GB,128GB,50,33999,35.0
+"OnePlus Nord 4 5G (Oasis Green, 8GB RAM, 128GB Storage)",4.0,212,1K+ bought in past month,27999,₹29999,(7% off),No,OnePlus,OnePlus Nord 4 5G ,Green,8GB,128GB,1000,29999,7.0
+"OnePlus Nord CE 2 Lite 5G (Black Dusk, 6GB RAM, 128GB Storage)",4.3,"150,734",0,18490,₹19999,(8% off),No,OnePlus,OnePlus Nord CE 2 Lite 5G ,Black,6GB,128GB,0,19999,8.0
+"OnePlus 11 5G (Eternal Green, 16GB RAM, 256GB Storage)",4.4,"2,234",,61999,,,No,OnePlus,OnePlus 11 5G ,Green,16GB,256GB,0,"3     17490
+4     21990
+5     27999
+8     18490
+15    61999
+Name: Current MRP, dtype: int64",0.0
