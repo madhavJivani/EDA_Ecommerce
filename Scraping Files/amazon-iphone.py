@@ -12,7 +12,7 @@ headers = {
 }
 
 # Loop through pages, adjust the range to control the number of pages to scrape
-for page in range(1, 21):  # Scraping pages 1 to 5
+for page in range(1, 11):  # Scraping pages 1 to 5
     url = base_url.format(page)
     
     # Send a GET request to the Amazon URL
@@ -78,7 +78,7 @@ for page in range(1, 21):  # Scraping pages 1 to 5
         df = pd.DataFrame(products)
         
         # Save each page's data to a separate CSV file
-        file_name = f'py-scraping/amazon_page_{page}.csv'
+        file_name = f'Raw-Csvs/Amazon-Iphone-csvs/amazon_page_{page}.csv'
         df.to_csv(file_name, index=False)
         print(f"Data exported to {file_name}")
     else:

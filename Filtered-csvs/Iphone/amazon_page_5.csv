@@ -1,14 +1,14 @@
-Product Name,Rating (Stars),Number of Reviews,Bought Last Month,Current MRP,Dashed MRP,Discount (%),Free Delivery,Brand,Product,Storage,Color,New Bought Last Month,New Dashed MRP,New Discount (%)
-(Refurbished) Apple iPhone 16 (256 GB) - White,,,New Price:,76415.0,₹89900,(15% off),1,,,,Red,0,89900.0,15.0
-Apple iPhone 15 Pro Max (512 GB) - Blue Titanium,4.4,372,M.R.P:,145900.0,₹179900,(19% off),1,Apple,iPhone 15 Pro Max,512GB,Blue Titanium,0,179900.0,19.0
-Apple iPhone 15 Pro Max (1 TB) - White Titanium,4.4,372,M.R.P:,159900.0,₹199900,(20% off),1,,,,Red,0,199900.0,20.0
-Apple iPhone 15 Pro Max (256 GB) - Blue Titanium,4.4,372,M.R.P:,134900.0,₹159900,(16% off),1,Apple,iPhone 15 Pro Max,256GB,Blue Titanium,0,159900.0,16.0
-Apple iPhone 16 Pro (1 TB) - Black Titanium,3.7,36,,169900.0,,,1,,,,Red,0,169900.0,0.0
-Apple iPhone 15 (128 GB) - Yellow,4.5,"2,376",M.R.P:,65900.0,₹79600,(17% off),1,Apple,iPhone 15,128GB,Yellow,0,79600.0,17.0
-Apple iPhone 14 (256 GB) - Purple,4.5,"5,676",M.R.P:,66900.0,₹79900,(16% off),1,Apple,iPhone 14,256GB,Purple,0,79900.0,16.0
-Apple iPhone 14 Plus (128 GB) - Blue,4.5,"2,055",M.R.P:,69900.0,₹79900,(13% off),1,Apple,iPhone 14 Plus,128GB,Blue,0,79900.0,13.0
-Apple iPhone 14 (256 GB) - Yellow,4.5,"5,676",M.R.P:,66900.0,₹89900,(26% off),1,Apple,iPhone 14,256GB,Yellow,0,89900.0,26.0
-Apple iPhone 16 Pro (512 GB) - Natural Titanium,3.7,36,,149900.0,,,1,Apple,iPhone 16 Pro,512GB,Natural Titanium,0,149900.0,0.0
-Apple iPhone 15 Plus (128 GB) - Yellow,4.6,"1,061",M.R.P:,69900.0,₹89900,(22% off),1,Apple,iPhone 15 Plus,128GB,Yellow,0,89900.0,22.0
-Apple iPhone 16 (512 GB) - Black,4.4,62,,109900.0,,,1,Apple,iPhone 16,512GB,Black,0,109900.0,0.0
-Apple iPhone 16 Plus (256 GB) - Teal,4.1,50,50+ bought in past month,99900.0,,,1,Apple,iPhone 16 Plus,256GB,Teal,50,99900.0,0.0
+Product Name,Rating (Stars),Number of Reviews,Bought Last Month,Current MRP,Dashed MRP,Discount (%),Free Delivery,Brand,Product,Storage,Color,New Bought Last Month,New Dashed MRP,New Discount (%),RAM
+Apple iPhone 14 Plus (128 GB) - Starlight,4.6,256,M.R.P:,64900.0,₹79600,(18% off),1,Apple,iPhone 14 Plus,128GB,Starlight,0,79600.0,18.0,6 GB
+Apple iPhone 14 Plus (128 GB) - Midnight,4.6,339,M.R.P:,64900.0,₹79600,(18% off),1,Apple,iPhone 14 Plus,128GB,Midnight,0,79600.0,18.0,6 GB
+Apple iPhone 16 Plus (256 GB) - Teal,4.1,53,50+ bought in past month,97900.0,₹99900,(2% off),1,Apple,iPhone 16 Plus,256GB,Teal,50,99900.0,2.0,8 GB
+Apple iPhone 14 Pro (128 GB) - Space Black,4.5,134,,129900.0,,,1,Apple,iPhone 14 Pro,128GB,Space Black,0,129900.0,0.0,6 GB
+Apple iPhone 14 (512 GB) - Starlight,3.7,7,M.R.P:,79900.0,₹99900,(20% off),1,Apple,iPhone 14,512GB,Starlight,0,99900.0,20.0,6 GB
+Apple iPhone 15 (512 GB) - Blue,4.0,5,M.R.P:,94900.0,₹109900,(14% off),1,Apple,iPhone 15,512GB,Blue,0,109900.0,14.0,6 GB
+Apple iPhone 16 (512 GB) - Teal,4.5,79,,109900.0,,,1,Apple,iPhone 16,512GB,Teal,0,109900.0,0.0,8 GB
+Apple iPhone 15 Pro Max (512 GB) - Black Titanium,3.6,6,M.R.P:,139900.0,₹173900,(20% off),1,Apple,iPhone 15 Pro Max,512GB,Black Titanium,0,173900.0,20.0,6 GB
+Apple iPhone 14 (256 GB) - Midnight,4.3,125,M.R.P:,66900.0,₹89900,(26% off),1,Apple,iPhone 14,256GB,Midnight,0,89900.0,26.0,6 GB
+Apple iPhone 16 Plus (256 GB) - Ultramarine,4.1,53,50+ bought in past month,97900.0,₹99900,(2% off),1,Apple,iPhone 16 Plus,256GB,Ultramarine,50,99900.0,2.0,8 GB
+Apple iPhone 16 Pro (512 GB) - Natural Titanium,3.8,44,,149900.0,,,1,Apple,iPhone 16 Pro,512GB,Natural Titanium,0,149900.0,0.0,8 GB
+Apple iPhone 15 Pro Max (512 GB) - Blue Titanium,4.2,5,M.R.P:,145900.0,₹179900,(19% off),1,Apple,iPhone 15 Pro Max,512GB,Blue Titanium,0,179900.0,19.0,6 GB
+Apple iPhone 15 (128 GB) - Yellow,4.4,61,M.R.P:,65900.0,₹79600,(17% off),1,Apple,iPhone 15,128GB,Yellow,0,79600.0,17.0,6 GB
